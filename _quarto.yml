@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "laura"
+  navbar:
+    right:
+      - about.qmd
+      - icon: instagram
+        href: https://www.instagram.com/laura_brianna/
+      - text: "{{< fa brands threads >}}"
+        href: https://www.threads.net/@laura_brianna
+format:
+  html:
+    theme: lux
+    css: styles.css
+    header-includes: |
+      <link rel="stylesheet" href="https://kit.fontawesome.com/a2be1b1c16.css" crossorigin="anonymous">
+
+editor: visual
+

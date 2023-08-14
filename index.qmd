@@ -1,0 +1,13 @@
+---
+title: "anecdotes and evidence for communication in data sciences"
+description: "by laura brianna gast, drph mgis mph cph"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

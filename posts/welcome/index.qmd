@@ -1,0 +1,23 @@
+---
+title: "Why a blog?"
+subtitle: "I have a point, your honor, I promise."
+author: "Laura Gast"
+date: "2023-07-07"
+image: "PST-Conf2023-MediaKit-Talks.jpg"
+categories: [news, about]
+---
+
+As I was developing my talk for Posit::conf(2023)
+Articulation was coaching
+Cohort suggested I needed to write a bunch of these topics up for more information
+
+So hi!
+
+If you want to be social with me (these are by no means my "professinoal" socials, but I
+have fun anyway), I'm active on Instagram and on Threads.
+
+
+<i class="fa-brands fa-instagram"></i> <i class="fa-brands fa-threads"></i> - @laura_brianna
+
+![](PST-Conf2023-MediaKit-Talks.jpg)
+
