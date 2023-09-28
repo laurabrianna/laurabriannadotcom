@@ -6,6 +6,7 @@ website:
   navbar:
     right:
       - about.qmd
+      - home.qmd
       - icon: instagram
         href: https://www.instagram.com/laura_brianna/
       - text: "{{< fa brands threads >}}"

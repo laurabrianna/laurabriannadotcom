@@ -1,0 +1,10 @@
+---
+title: "Emotions & Cognition"
+subtitle: "Leveraging Cognitive Load Theory to make the most the attention your audience gives you (no matter how litte)"
+author: "Laura Gast"
+date: "2023-07-10"
+categories: [analysis, cognitive load theory]
+image: "image.jpg"
+---
+
+This is a post with executable cod
