@@ -1,0 +1,10 @@
+---
+title: "Pretty is More than 'Pretty'"
+subtitle: "Information design is more than just looking 'pretty' or 'cool'."
+author: "Laura Gast"
+date: "2023-09-27"
+categories: [analysis, design, information communication]
+image: "image.jpg"
+---
+
+Here is text.

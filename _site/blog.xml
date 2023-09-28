@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>LauraGast.com</title>
+<link>https://lauragast.com/blog.html</link>
+<atom:link href="https://lauragast.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Thu, 28 Sep 2023 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hah! Made You Look</title>
+  <dc:creator>Laura Gast</dc:creator>
+  <link>https://lauragast.com/posts/2023-09-28-preattentive-attributes/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>You’ve worked on an important project and crunched the numbers—your findings are substantial, insightful, and ripe for action. You’re now preparing to present this data to decision-makers who are, well, incredibly busy and a bit impatient. You’ve got a limited time to make an impact. How can you get their eyes—and minds—to focus on the critical points?</p>
+<p>Enter the concept of “pre-attentive attributes,” a concept from the field of cognitive psychology. Understanding these subconscious cues can help us design visual elements that make the decision-making process far more intuitive and efficient.</p>
+<p>### What Are Pre-Attentive Attributes?</p>
+<p>Pre-attentive attributes are visual cues that our subconscious brain processes in less than 200 milliseconds. These are aspects like shape, size, color, and orientation that our brains pick up and process before we even consciously focus on the data. Think of them as your brain’s “quick filters” for assessing and interpreting a complex visual field.</p>
+<p>#### Practical Example: Air Traffic Control</p>
+<p>In air traffic control systems, immediate recognition of different types of information is crucial. Color coding (an example of a pre-attentive attribute) is used to differentiate between aircraft at different altitudes. A controller doesn’t have to “read” the altitude; the color provides immediate recognition. This efficient way of processing information helps in reducing the cognitive load and quickening decision-making. ([Endsley, M. R. (1995). Toward a theory of situation awareness in dynamic systems. Human Factors, 37(1), 32-64.](https://journals.sagepub.com/doi/10.1518/001872095779049543))</p>
+<p>### How to Leverage Pre-Attentive Attributes</p>
+<p>#### 1. Color Contrast and Hue</p>
+<p>For example, using bright colors for critical data points against a subdued background can attract immediate attention. However, be cautious about the color schemes; cultural and contextual differences might influence how colors are perceived.</p>
+<p>#### 2. Size and Spatial Positioning</p>
+<p>Bigger objects or those positioned in the middle of a layout tend to attract more attention. Data points that are more critical could be emphasized by playing with their size or positioning.</p>
+<p>#### 3. Shape and Orientation</p>
+<p>Various shapes or orientations can serve as effective markers to differentiate data points or categories within the same visual presentation.</p>
+<p>### Pre-attentive Attributes and Cognitive Load</p>
+<p>The principle behind leveraging pre-attentive attributes is rooted in the cognitive load theory. The idea is that our working memory has limited capacity. By using visual cues that are processed subconsciously, we free up cognitive “bandwidth,” allowing decision-makers to concentrate on interpreting the data rather than trying to understand how to read it.</p>
+<p>#### Abstraction and Caveats</p>
+<p>It’s important to note that while pre-attentive attributes make processing easier, they are not a substitute for well-structured data. They serve as a layer atop the content. Also, not all data is suited for all types of pre-attentive attributes. One has to choose wisely, keeping the context and the audience in mind.</p>
+<p>### Wrapping Up</p>
+<p>Effective data presentation is not just about the data itself but also how it’s visually conveyed. With an understanding of pre-attentive attributes, you can design your charts, graphs, and reports in a way that makes the decision-making process smoother and faster. In the cacophonous world of data, sometimes it’s the silent cues that speak the loudest.</p>
+<p>For those who want to dive deeper, academic journals on cognitive psychology and human-computer interaction offer a plethora of research on this topic. And as always, practice makes perfect—so keep experimenting with these elements in your next data presentation project.</p>
+
+
+
+ ]]></description>
+  <category>analysis</category>
+  <category>pre-attentive attributes</category>
+  <category>visual processing</category>
+  <guid>https://lauragast.com/posts/2023-09-28-preattentive-attributes/index.html</guid>
+  <pubDate>Thu, 28 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://lauragast.com/posts/2023-09-28-preattentive-attributes/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Pretty is More than ‘Pretty’</title>
+  <dc:creator>Laura Gast</dc:creator>
+  <link>https://lauragast.com/posts/2023-09-27-pretty-is-more-than-pretty/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Here is text.</p>
+
+
+
+ ]]></description>
+  <category>analysis</category>
+  <category>design</category>
+  <category>information communication</category>
+  <guid>https://lauragast.com/posts/2023-09-27-pretty-is-more-than-pretty/index.html</guid>
+  <pubDate>Wed, 27 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://lauragast.com/posts/2023-09-27-pretty-is-more-than-pretty/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Why a blog?</title>
+  <dc:creator>Laura Gast</dc:creator>
+  <link>https://lauragast.com/posts/2023-09-26-welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="please-glitter-responsibly" class="level3">
+<h3 class="anchored" data-anchor-id="please-glitter-responsibly">Please Glitter Responsibly</h3>
+<div class="grid">
+<div class="g-col-8">
+<p>In 2022 I attended the RStudio (now Posit) Conference in Washington, DC, and listened to a session containing 4 extremely interesting talks about design.</p>
+<p>Unfortunately, they titled this group “Pour Some Glitter On It: Polishing the design of your shiny apps”.</p>
+<p>Why? You ask, did this distract me for nearly an entire calendar year? (sadly not an exaggeration)</p>
+</div>
+<div class="g-col-4">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://lauragast.com/posts/2023-09-26-welcome/glitter.gif" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<ol type="1">
+<li><p>Don’t <em>pour</em> glitter! Glitter should be targeted for maximum effect.</p></li>
+<li><p>Why <em>glitter</em>? It just gets everywhere. Demitri Martin said it best when he said that “glitter is the herpes of craft supplies”. I guess in some way maybe its a good analogy, because you want your message to stay with your audience for a long long time, but still.</p></li>
+<li><p>I firmly believe that <strong>good design is absolutely critical to producing deliverables that people <em>want to</em> use, and <em>actually do</em> use</strong>. I know that this holds true for applications, powerpoint decks, and even basic Excel spreadsheets. I’ve spent the majority of my career so far orbiting around this concept.</p></li>
+</ol>
+<p>So by the time the call came out to pitch talks for the 2023 conference, I had been stewing on this unfortunately named session title for at least 6 months. If only to save my sanity, I had to pitch something.<br>
+</p>
+</section>
+<section id="minutes-is-not-long-enough" class="level3">
+<h3 class="anchored" data-anchor-id="minutes-is-not-long-enough">20 Minutes is Not Long Enough</h3>
+<p>Now Posit itself is equal parts data science, data engineering, and development. But being a very open community, there are also dozens of user groups who attend these conferences - from pharma and life sciences researchers, to business operations, to the insurance industry. It’s a uniquely and fantastically wide world of expertise at these things. So I did my best to identify a single train of thought that could be presented in the 20-minute window.</p>
+<p>The Posit team liked it.</p>
+<div class="grid">
+<div class="g-col-4">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lauragast.com/posts/2023-09-26-welcome/PST-Conf2023-MediaKit-Talks.jpg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+<div class="g-col-8">
+<p>They invited me for a 20-minute talk. And that talk turned into <em>Why Design Is Worth The Time: Leveraging cognitive science to amplify impact.</em> As a compliment to the many conference sessions that gave great ways <em>how</em> to make deliverables beautiful and cohesive, I wanted to provide some scientific backing for <em>why</em> it is worth the time it takes.</p>
+</div>
+</div>
+<p>Shockingly, 20 minutes is not enough time to condense 15+ years of obsession with how the human brain processes information. I used my 20 minutes to hit the highlights of cognitive science in very superficial detail, provide my practical recommendations about based in that science, and then provide citations and links for people to dig in further.</p>
+<p>Turns out lots of people liked it.<br>
+</p>
+</section>
+<section id="the-problem-with-nerds" class="level3">
+<h3 class="anchored" data-anchor-id="the-problem-with-nerds">The problem with nerds</h3>
+<p>The problem with nerds is that when we hear something interesting that we can use to make our lives easier, we want more information about how we can use it.</p>
+<div class="grid">
+<div class="g-col-7">
+<p>I treat it as the utmost compliment that I had more than one person tell me they made some tweaks to their talks the day after mine using some of my tips. And I’ve had dozens of follow-up questions from people from chatting at the conference, or via email/LinkedIn.</p>
+<p>So that brings us here: to a blog.</p>
+</div>
+<div class="g-col-5">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://lauragast.com/posts/2023-09-26-welcome/herefortheparty.gif" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>I plan on using this space as a place to expand on the topics of intersection of design, cognitive science in information processing, data storytelling, and information communication.</p>
+<p>Hopefully, I’ll be presenting again at Posit::conf(2024), however Posit is notoriously good at big swings at inclusivity and rarely accept talks from the same person two years in a row. So at a minimum, you’ll see me as an attendee in Seattle in 2024. In the meantime, I’ll be here.</p>
+<hr>
+<h5 class="anchored">
+Bonus notes
+</h5>
+<p>The conferences are styled Posit::conf(2023) because its a jokey nod to the way we write code in the R language, and nerds are nothing if not excited to make corny jokes whenever possible. (Not just limited to R, go ask the python folks why <a href="https://en.wikipedia.org/wiki/Python_(programming_language)#Design_philosophy_and_features" title="they just loved Monty Python (seriously)">the name of their language is python</a>.)</p>
+<p>If you want to be social with me (these are by no means my “professional” socials, but I have fun anyway), I’m active on Instagram and on Threads.</p>
+<p><i class="fa-brands fa-instagram"></i> <i class="fa-brands fa-threads"></i> - <span class="citation" data-cites="laura_brianna">@laura_brianna</span></p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>about</category>
+  <guid>https://lauragast.com/posts/2023-09-26-welcome/index.html</guid>
+  <pubDate>Sat, 23 Sep 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://lauragast.com/posts/2023-09-26-welcome/PST-Conf2023-MediaKit-Talks.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

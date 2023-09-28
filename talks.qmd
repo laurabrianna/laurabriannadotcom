@@ -1,0 +1,6 @@
+---
+title: "talks"
+---
+
+"Why Design is Worth The Time" \[link coming soon\]\
+- September 19, 2023 \| Chicago, IL, USA \| Invited speaker for Posit::conf(2023)

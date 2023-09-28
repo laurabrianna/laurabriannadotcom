@@ -2,19 +2,30 @@ project:
   type: website
 
 website:
-  title: "laura"
+  title: "LauraGast.com"
+  site-url: https://lauragast.com
   navbar:
     right:
-      - about.qmd
-      - home.qmd
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Talks
+        href: talks.qmd
+      - icon: rss
+        href: blog.xml
       - icon: instagram
         href: https://www.instagram.com/laura_brianna/
       - text: "{{< fa brands threads >}}"
         href: https://www.threads.net/@laura_brianna
+  google-analytics: G-DS5CN9HCL1
 format:
   html:
     theme: lux
     css: styles.css
+    grid:
+      sidebar-width: 450px
+      margin-width: 350px
     header-includes: |
       <link rel="stylesheet" href="https://kit.fontawesome.com/a2be1b1c16.css" crossorigin="anonymous">
 

@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="by laura brianna gast, drph mgis mph cph">
 
-<title>laura - anecdotes and evidence for communication in data sciences</title>
+<title>LauraGast.com - anecdotes and evidence for communication design in data science</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,12 +30,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -63,44 +59,22 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DS5CN9HCL1"></script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
+<script type="text/javascript">
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-DS5CN9HCL1', { 'anonymize_ip': true});
+</script>
 <link rel="stylesheet" href="https://kit.fontawesome.com/a2be1b1c16.css" crossorigin="anonymous">
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -108,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">laura</span>
+    <span class="navbar-title">LauraGast.com</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -118,11 +92,22 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Home</span></a>
   </li>  
-  <li class="dropdown-header">
- <span class="menu-text">home.qmd</span></li>
+  <li class="nav-item">
+    <a class="nav-link" href="./blog.html" rel="" target="">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./talks.html" rel="" target="">
+ <span class="menu-text">Talks</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./blog.xml" rel="" target=""><i class="bi bi-rss" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.instagram.com/laura_brianna/" rel="" target=""><i class="bi bi-instagram" role="img">
 </i> 
@@ -140,167 +125,76 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">anecdotes and evidence for communication in data sciences</h1>
-                  <div>
-        <div class="description">
-          by laura brianna gast, drph mgis mph cph
-        </div>
-      </div>
-                </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="about">about <span class="quarto-category-count">(1)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cognitive load theory">cognitive load theory <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pre-attentive attributes">pre-attentive attributes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="visual processing">visual processing <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 
 
+<div class="quarto-figure quarto-figure-center column-screen page-columns page-full">
+<figure class="figure page-columns page-full">
+<p class="page-columns page-full"><img src="images/AdobeStock_145048171-01.jpeg" class="column-screen img-fluid figure-img"></p>
+</figure>
+</div>
+<div class="quarto-about-solana column-body">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">anecdotes and evidence for communication design in data science</h1>
+<p class="subtitle lead">by Laura Gast, DrPH MGIS MPH CPH</p>
+</div>
+<div class="quarto-title-meta">
+  </div>
+</header> <div class="about-links">
+  <a href="https://www.threads.net/@laura_brianna" class="about-link" rel="" target="">
+     <span class="about-link-text"><i class="fa-brands fa-threads" aria-label="threads"></i> Threads</span>
+  </a>
+  <a href="https://www.linkedin.com/in/laurabgast/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://github.com/laurabrianna" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+</div>
+      <div class="about-contents"><div id="hero-heading">
+<p>Welcome here to some stuff!</p>
+</div></div>
+    </div>
+    <img src="profilepic.jpg" class="about-image
+  rounded " style="width: 15em;">
+  </div>
+</div>
+
+<section id="a-bit-about-the-author" class="level2">
+<h2 data-anchor-id="a-bit-about-the-author">A Bit About the Author</h2>
+<p>Technically an Epidemiologist, Dr.&nbsp;Gast has spent her career at the intersection of communicating technical work to non-technical (and often extremely busy) decision makers.</p>
+<p>She spent several years working primarily in Southern Africa developing malaria elimination strategies and operational reporting frameworks. It was during these years where she honed her skills for communicating something highly specific and technical in as little of time as humanly possible; sometimes you only have one data viz, one slide or one sentence to convince a powerful decision-maker that your idea is worth investing in. Dr.&nbsp;Gast has worked on infectious and communicable disease projects in at least 10 countries.</p>
+<p>Back in her didactic education days, she somehow managed to convince NASA to fund her Public Health doctoral dissertation. She spent several years wandering the jungles of Peru in order to figure out ways to use satellite imagery and machine learning to classify land-use land-cover changes and how it relates to mosquito-borne diseases like dengue hemorrhagic fever. Despite sleeping in a house without real doors where 3 people got dengue (and it was a 50/50 shot of waking up with 2 inches of water across the entire homestead and a mouse trying to climb the dresser to get away from the flood), she managed to complete her field work without getting dengue herself.</p>
+<p>These days, you will find Dr.&nbsp;Gast living a calmer life, working for a non-profit dedicated to serving US military members and their families, wrestling with development and impact data.</p>
+<p>In her ever-shrinking free time, you’ll find Laura playing pub trivia, throwing some darts, attending live performances (comedy, rock, symphony, etc), or training up to run several marathons (where the hard work feels good after a several-years-long recovery from a back injury).</p>
+</section>
+<section id="education" class="level2">
+<h2 data-anchor-id="education">Education</h2>
+<p><strong>University of Alabama at Birmingham</strong> | Birmingham, AL, USA<br>
+DrPH - Epidemiology &amp; International Health</p>
+<p><strong>Brown University</strong> | Providence, RI, USA<br>
+Master of Public Health (MPH) - Public Health &amp; Public Policy</p>
+<p><strong>Pennsylvania State University</strong> | State College, PA, USA<br>
+Master of Geographic Information Systems (MGIS)</p>
+<p><strong>Kansas State University</strong> | Manhattan, KS, USA<br>
+BSc - Biology &amp; Microbiology</p>
 
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="analysis,pre-attentive attributes,visual processing" data-listing-date-sort="1688961600000" data-listing-file-modified-sort="1695660311869" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<div class="thumbnail">
-<p><a href="./posts/post-with-code/index.html"> <img src="./posts/post-with-code/image.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/post-with-code/index.html">
-<h3 class="no-anchor listing-title">
-Hah! Made You Look
-</h3>
-<div class="listing-subtitle">
-What your eyes notice before your brain does, and how to make the most of it.
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('pre-attentive attributes'); return false;">
-pre-attentive attributes
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('visual processing'); return false;">
-visual processing
-</div>
-</div>
-<a href="./posts/post-with-code/index.html">
-<div class="listing-description">
-You’ve worked on an important project and crunched the numbers—your findings are substantial, insightful, and ripe for action. You’re now preparing to present this data to…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/post-with-code/index.html">
-<div class="listing-date">
-Jul 10, 2023
-</div>
-<div class="listing-author">
-Harlow Malloc
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="analysis,cognitive load theory" data-listing-date-sort="1688961600000" data-listing-file-modified-sort="1692193018207" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./posts/emotions-cognition/index.html"> <img src="./posts/emotions-cognition/image.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/emotions-cognition/index.html">
-<h3 class="no-anchor listing-title">
-Emotions &amp; Cognition
-</h3>
-<div class="listing-subtitle">
-Leveraging Cognitive Load Theory to make the most the attention your audience gives you (no matter how litte)
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('cognitive load theory'); return false;">
-cognitive load theory
-</div>
-</div>
-<a href="./posts/emotions-cognition/index.html">
-<div class="listing-description">
-This is a post with executable cod
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/emotions-cognition/index.html">
-<div class="listing-date">
-Jul 10, 2023
-</div>
-<div class="listing-author">
-Laura Gast
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="news,about" data-listing-date-sort="1688702400000" data-listing-file-modified-sort="1695498095935" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html"> <img src="./posts/welcome/PST-Conf2023-MediaKit-Talks.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/welcome/index.html">
-<h3 class="no-anchor listing-title">
-Why a blog?
-</h3>
-<div class="listing-subtitle">
-I have a point, your honor, I promise.
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('about'); return false;">
-about
-</div>
-</div>
-<a href="./posts/welcome/index.html">
-<div class="listing-description">
-In 2022 I attended the RStudio (now Posit) Conference in Washington, DC, and listened to a session containing 4 extremely interesting talks about design.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html">
-<div class="listing-date">
-Jul 7, 2023
-</div>
-<div class="listing-author">
-Laura Gast
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -321,13 +215,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
