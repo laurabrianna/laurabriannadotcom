@@ -1,7 +1,10 @@
 ---
-title: "anecdotes and evidence for communication design in data science"
+title: |
+  | ![](lbg_option1.png){fig-align="center" width="2cm"}
+  |
+  | anecdotes and evidence for communication design in data science
 subtitle: "by Laura Gast, DrPH MGIS MPH CPH"
-image: profilepic.jpg
+image: profilepic.png
 about:
   id: hero-heading
   template: solana
@@ -17,7 +20,7 @@ about:
 ---
 
 ::: {#hero-heading}
-Welcome!
+
 :::
 
 ## A Bit About the Author
@@ -31,6 +34,7 @@ Back in her didactic education days, she somehow managed to convince NASA to fun
 These days, you will find Dr. Gast living a calmer life, working for a non-profit dedicated to serving US military members and their families, wrestling with development and impact data.
 
 In her ever-shrinking free time, you'll find Laura playing pub trivia, throwing some darts, attending live performances (comedy, rock, symphony, etc), or training up to run several marathons (where the hard work feels good after a several-years-long recovery from a back injury).
+
 
 ## Education
 

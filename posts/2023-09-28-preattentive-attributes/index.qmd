@@ -4,7 +4,7 @@ subtitle: "What your eyes notice before your brain does, and how to make the mos
 author: "Laura Gast"
 date: "2023-09-28"
 categories: [analysis, pre-attentive attributes, visual processing]
-image: "image.jpg"
+image: "notice.jpeg"
 ---
 
 You've worked on an important project and crunched the numbers---your findings are substantial, insightful, and ripe for action. You're now preparing to present this data to decision-makers who are, well, incredibly busy and a bit impatient. You've got a limited time to make an impact. How can you get their eyes---and minds---to focus on the critical points?

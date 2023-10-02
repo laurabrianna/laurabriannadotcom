@@ -1,10 +1,360 @@
 ---
-title: "Pretty is More than 'Pretty'"
-subtitle: "Information design is more than just looking 'pretty' or 'cool'."
+title: "Beyond Aesthetics"
+subtitle: "A brief primer on the cognitive and psychological foundations of effective data visualization & information communication."
 author: "Laura Gast"
 date: "2023-09-27"
-categories: [analysis, design, information communication]
-image: "image.jpg"
+categories: [analysis, design, information communication, Primers & 101s]
+image: "colorful_dashsquares.jpeg"
 ---
 
-Here is text.
+*Note: this post is meant to be a brief primer of the kinds of topics I will be discussing in this blog. It is designed to be an echo of my 2023 Posit Conference talk -- Why Design Is Worth The Time. A link to this talk will be available once the conference host uploads it to YouTube.*
+
+------------------------------------------------------------------------
+
+## 'Pretty' Means More than Just 'Pretty'
+
+In a data-driven world, the ability to effectively communicate complex information is invaluable. Sure, "data is the new oil" [^1] - both data and raw petroleum need a lot of refinement to be made useful and profitable. But unlike oil, data requires more than mere processing; It requires context, analysis, and interpretation. This is where design comes in to play.
+
+[^1]: Bridle, James. New Dark Age: Technology and the End of the Future. Verso Books, 2018.
+
+A "pretty" data visualization or "clean" looking text block or table may be more than visually appealing. Information design is not merely an art; it's a science grounded in cognitive psychology, attention theory, and decision-making research.
+
+## Cognitive Load and Data Visualization
+
+The concept of cognitive load theory, first popularized by John Sweller in the late 1980s, serves as a critical framework for understanding how human cognition works during learning processes [^2]. In its most simplified form, cognitive load theory posits that human working memory is limited, and that effective learning and decision-making are constrained by the amount of information we can process simultaneously. This is why its so hard to cram for an exam - you can only absorb so much at one time.
+
+[^2]: Sweller, J. (1988). "Cognitive load during problem solving: Effects on learning." Cognitive Science.
+
+Cognitive load theory is broken apart into three components [^3]:
+
+[^3]: Note that Cognitive Load Theory is a bit of a leaky abstraction, however it is useful in the planning of information communication and data visualization when considered in concert with audience and environment specifications.
+
+1.  Intrinsic Cognitive Load: this is the inherent complexity associated with the material being learned or presented, and is related to the subject matter itself. The intrinsic load of a specific topic is generally unchangeable - it is easier to learn addition than it is to learn how to calculate differential equations.
+
+2.  Extraneous Cognitive Load: this is the additional cognitive load imposed by the way information is structured, presented, or the learning environment itself. It represents the unnecessary mental effort required to process information that is not directly relevant to the subject matter. While most people think of this as data visualization, it can also be the structure of a report, the scaffolding of a table, or the readability of a font selection. Your job as a presenter or teacher is to lessen the extraneous load as much as possible so you can maximize the impact of other two load types.
+
+3.  Germane Cognitive Load: This is the mental effort applied to learning the task itself, or the specific brain power used to organize information in the head, anchor it to existing and relevant existing schema, or create new schema and mental models. This is where a concept is integrated into long-term memory and made available for recall later.
+
+### As Simple as Possible (but No Simpler)
+
+In data visualization and information design, this principle is critical: overload your audience with too much information, complex visual structures, or intricate details, and you risk diluting the message you aim to convey. For instance, a visualization filled with unnecessary decorations, often called "chartjunk," can increase extraneous cognitive load, and may lead to a less effective presentation of data [^4]. This is the classic 'Edward Tufte' view of data visualization that you tend to hear in many data visualization courses [^5]. You may also have heard about this as an 'information to ink' ratio, or something similar.
+
+[^4]: Bateman, S., Mandryk, R. L., Gutwin, C., Genest, A., McDine, D., & Brooks, C. (2010). Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts. ACM CHI, 2573--2582.
+
+[^5]: Tufte, E. R. (1983). The Visual Display of Quantitative Information. Graphics Press.
+
+[![An example of Chartjunk, from https://www.edwardtufte.com](tufte_example.jpeg){fig-align="center"}](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z)
+
+On the other hand, an overly simplistic visualization might not adequately represent the complexities of the data, thus under-utilizing the available cognitive resources and possibly leading to overly simplistic conclusions. You also may be accused of 'hiding important information' and lose some of your audience's trust.
+
+### Unless You're Like, ***Really*** Good
+
+If that weren't complicated enough, enter: The Infographic. Infographics tend to lean harder into the art side and/or journalism side of things.
+
+On the journalism side, you have probably seen some gorgeous visualizations from brilliant and creative people like [Alberto Cairo](https://www.albertocairo.com) or [Mona Chalabi](https://monachalabi.com). You can also explore the Tidy Tuesday creations from people like [Cedric Scherer](https://www.cedricscherer.com), who thread the needle between art, science, and communication in clever ways.
+
+::: grid
+::: g-col-6
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/ByfpjdtngWt/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+
+::: {style="padding:16px;"}
+<a href="https://www.instagram.com/p/ByfpjdtngWt/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
+
+::: {style=" display: flex; flex-direction: row; align-items: center;"} ::: {style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"}
+:::
+
+::: {style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"}
+::: {style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"}
+:::
+
+::: {style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"}
+
+:::
+
+:::
+
+:::
+
+::: {style="padding: 19% 0;"}
+:::
+
+::: {style="display:block; height:50px; margin:0 auto 12px; width:50px;"}
+<svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
+
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g>
+
+</svg>
+:::
+
+::: {style="padding-top: 8px;"}
+::: {style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"} View this post on Instagram
+:::
+
+:::
+
+::: {style="padding: 12.5% 0;"}
+:::
+
+::: {style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"}
+<div>
+
+::: {style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"}
+:::
+
+::: {style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"}
+:::
+
+::: {style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"}
+:::
+
+</div>
+
+::: {style="margin-left: 8px;"}
+::: {style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"}
+:::
+
+::: {style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"}
+:::
+
+:::
+
+::: {style="margin-left: auto;"}
+::: {style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"}
+:::
+
+::: {style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"}
+
+:::
+
+::: {style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"}
+
+:::
+
+:::
+
+:::
+
+::: {style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"}
+::: {style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"}
+:::
+
+::: {style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"}
+
+:::
+
+:::
+
+</a>
+
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+
+<a href="https://www.instagram.com/p/ByfpjdtngWt/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Alberto Cairo (@alberto.cairo.howchartslie)</a>
+
+</p>
+
+:::
+
+</blockquote>
+
+```{=html}
+<script async src="//www.instagram.com/embed.js"></script>
+```
+:::
+
+::: g-col-6
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Cwnku9OuKQY/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+
+::: {style="padding:16px;"}
+<a href="https://www.instagram.com/p/Cwnku9OuKQY/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
+
+::: {style=" display: flex; flex-direction: row; align-items: center;"} ::: {style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"}
+:::
+
+::: {style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"}
+::: {style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"}
+:::
+
+::: {style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"}
+
+:::
+
+:::
+
+:::
+
+::: {style="padding: 19% 0;"}
+:::
+
+::: {style="display:block; height:50px; margin:0 auto 12px; width:50px;"}
+<svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
+
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g>
+
+</svg>
+:::
+
+::: {style="padding-top: 8px;"}
+::: {style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"} View this post on Instagram
+:::
+
+:::
+
+::: {style="padding: 12.5% 0;"}
+:::
+
+::: {style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"}
+<div>
+
+::: {style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"}
+:::
+
+::: {style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"}
+:::
+
+::: {style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"}
+:::
+
+</div>
+
+::: {style="margin-left: 8px;"}
+::: {style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"}
+:::
+
+::: {style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"}
+:::
+
+:::
+
+::: {style="margin-left: auto;"}
+::: {style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"}
+:::
+
+::: {style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"}
+
+:::
+
+::: {style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"}
+
+:::
+
+:::
+
+:::
+
+::: {style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"}
+::: {style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"}
+:::
+
+::: {style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"}
+
+:::
+
+:::
+
+</a>
+
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
+
+<a href="https://www.instagram.com/p/Cwnku9OuKQY/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Mona Chalabi (@monachalabi)</a>
+
+</p>
+
+:::
+
+</blockquote>
+
+```{=html}
+<script async src="//www.instagram.com/embed.js"></script>
+```
+:::
+:::
+
+These visuals don't 100% firmly obey the "Classic Tufte Method". But also no one can say these visuals do not draw you in, teach you something, and leave you with something interesting to chew on for a while. They are incredibly effective. If you look hard enough, the core ideas are rooted firmly in the foundations; the cleverest people know exactly how to break which rules and when.
+
+### Balancing Art and Science
+
+::: grid
+::: g-col-8
+Effective visualizations strike a balance; they are rich enough to convey the necessary complexity of the data while being simple enough to be quickly and easily understood. If they incorporate artistic flourishes, those serve to draw you in and keep you there, and are put in with surgical precision to stay out of the way of the information itself.
+
+The best communicators use several different encoding mechanisms - balancing extrinsic load across systems that process color, text, pattern, movement, and more - to deliver more information in a more digestible way. This sweet spot makes the most efficient use of our cognitive resources, ensuring that the message gets through clearly and memorably without unnecessary mental strain.
+
+The concept of cognitive load serves as both a guide and a warning: it helps designers create more effective visualizations, but it's also a reminder that optimizing for one audience might not work for another.
+
+Which leads us to our next point.
+:::
+
+::: g-col-4
+[![Balancing science and art to cleanly convey a complex message. From Scientific American, 2021. https://www.scientificamerican.com/article/climate-change-drives-escalating-drought/](cedric_sciam.jpeg){fig-align="center" width="600"}](https://www.scientificamerican.com/article/climate-change-drives-escalating-drought/)
+:::
+:::
+
+
+
+## The Importance of Context (& Emotion)
+
+Back to the classic business context, data visualization is not just about displaying data points, but also about setting them within the right context.
+
+### Framing Effects and Attention
+
+Context is crucial in data visualization because the way information is framed can dramatically influence how it is received and understood. Kahneman and Tversky's seminal work on prospect theory reveals that the same information, when presented differently, can lead to divergent decisions and perceptions [^6]. This cognitive bias, known as the framing effect, manifests itself in various domains, including public health, finance, and social policy.
+
+[^6]: Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.
+
+Once you start looking, you see these framing effects are everywhere.
+
+-   A new drug that can cure 70% of patients. Framing this information as "30% of patients will not be cured" could discourage its usage compared to saying "70% will be cured."
+
+-   A graph showcasing increasing CO2 levels over the last decade is likely to be ignored. However, if paired with a timeline of natural disasters in the same period, the same data could evoke a more urgent response.
+
+-   Election maps are typically colored by area to show which candidate won which region, which doesn't align at all with population density. There is a big difference in showing a geographic area versus showing a cartogram (where the size of each region is adjusted based on population).
+
+### Emotional Impact and Ethical Considerations
+
+Emotion serves as another pivotal axis around which data visualization revolves. Emotion can both enhance and skew the interpretation of data. For example, vivid, fear-inducing colors in a heat map could elicit a stronger response compared to softer, less alarming colors. Simply making a number on a report bold and red will evoke a more emotional tone than the exact same number in black text. Color has a demonstrable impact on psychological functioning. Misleading color choices not only violate ethical standards but also can trigger unintended emotional responses [^7].
+
+[^7]: Elliot, A. J., & Maier, M. A. (2014). Color psychology: effects of perceiving color on psychological functioning in humans. Annual review of psychology, 65, 95-120.
+
+The use of emotion in data visualization raises several ethical considerations.
+
+Emotion can be a powerful tool to break down barriers of apathy or desensitization. Think of the images and infographics that went viral during significant social movements or disasters. Their emotional resonance often led to higher engagement and subsequent action.
+
+Emotionally charged visualizations must also consider the risk of reinforcing stereotypes or biases. An ill-designed graphic could inadvertently stigmatize communities, leading to adverse societal implications. Thus, ethical guidelines such as "fairness" and "do no harm," which are cornerstones of responsible journalism and scientific reporting, extend their applicability to the domain of data visualization. Emphasizing the need for transparent scales, accurate data representation, and avoiding deceptive visual elements ensure the graph is both "pretty" and ethical.[^8]
+
+[^8]: Cairo, A. (2015). Graphics lies, misleading visuals. In New Challenges for Data Design (pp. 103-116). Springer, London.
+
+To navigate this intricate landscape, understanding the nuances of both framing and emotional elements can be instrumental. By doing so, one can leverage the power of visualization to inform and persuade, while maintaining ethical integrity.
+
+## Those Who Tell the Stories Rule the World
+
+### Narrative and Memory
+
+Humans are storytellers by default and have been for at least 30,000 years [^9]. It's how we communicate best. We are simply wired to remember stories better than lists of facts, and this insight can be instrumental in the realm of data communication. Jerome Bruner, a cognitive psychologist, posited that narratives up to 22 times more memorable than facts alone (Bruner, 1991). This underscores the importance of incorporating story elements not just into reports and presentations, but to weave it into your data visualizations as well.
+
+[^9]: Smith, D., Schlaepfer, P., Major, K. *et al.* Cooperation and the evolution of hunter-gatherer storytelling. *Nat Commun* **8**, 1853 (2017). https://doi.org/10.1038/s41467-017-02036-8
+
+The reason storytelling is so effective lies in its structure. Most narratives have a beginning, middle, and end, allowing the audience to follow along a 'path' which organically leads to the key message or conclusion.
+
+Presentations tend to start with a 'where we were', to a 'what we did' to a 'what's next' section. Scientific articles tend start with an introduction, move to materials and methods, into a discussion and conclusion, and then suggest further research. Your tables and data visualizations tend to have an informative title on the top left, and progress to the smaller details in captions on the bottom right (in reading order across a page).
+
+This temporal progression helps the audience to grasp the urgency and also the possible ramifications, allowing the data to be contextualized and thus, better remembered.
+
+### Choose Your Own Adventure: The Role of Interactivity
+
+Interactivity is another dimension that can elevate your data communication strategies. Interactivity enables the viewer to explore the data by themselves, enhancing their understanding and retention of the information presented. A study by Yi, et al. demonstrated that interactivity significantly improved viewers' ability to acquire insights from visualizations [^10].
+
+[^10]: Yi, J. S., Kang, Y. A., Stasko, J. T., & Jacko, J. A. (2008). Toward a deeper understanding of the role of interaction in information visualization. IEEE transactions on visualization and computer graphics, 13(6), 1224-1231
+
+In today's digital age, the opportunity for making data visualizations interactive is more accessible than ever, through tools and platforms that allow zooming, filtering, or even real-time updates. For example, instead of just showing a static map of volunteer and donation rates for your non-rofit, an interactive map could allow users to zoom into their local area or filter by various demographic factors. This not only keeps the viewer's attention but also makes the information more relevant to them.
+
+Moreover, interactivity can serve to guide the viewer through complex datasets, in a manner somewhat akin to an interactive narrative. By allowing viewers to 'unearth' facts and trends themselves, you engage them in a form of 'active learning,' which is shown to be more effective for retention and understanding [^11].
+
+[^11]: Chi, M. T., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. Educational Psychologist, 49(4), 219-243.
+
+Both narrative storytelling and interactive elements can captivate the viewer's attention, which is an increasingly scarce commodity in our information-saturated world. Used judiciously, these techniques can turn a dull report into a compelling story, and a static chart into an exploration, ensuring that your important data isn't just seen, but also understood and remembered.
+
+## Conclusions
+
+Effective data visualization is not merely a matter of aesthetics. It is a multifaceted discipline deeply rooted in cognitive science, psychology, and ethical considerations. The true beauty of a "pretty" data visualization lies in its ability to efficiently communicate complex information, provide context, evoke the right emotions, narrate a compelling story, and engage the audience interactively---all of which is backed by rigorous scholarly research. The aim is not just to make data visually appealing, but to transform it into a strategic asset for decision-making.
+
+So, the next time you look at a data visualization and think it's 'pretty,' ask yourself why. Is it just visually appealing, or does is the sum of it somehow greater than all of its parts? Chances are, if it's genuinely effective, it's much more than just a pretty picture.

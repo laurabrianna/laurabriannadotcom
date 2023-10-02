@@ -4,7 +4,10 @@ project:
 website:
   title: "LauraGast.com"
   site-url: https://lauragast.com
+  favicon: lbg_option1.png
   navbar:
+    logo: lbg_option1_wbg.png
+    background: "#111033"
     right:
       - text: Home
         href: index.qmd
@@ -18,11 +21,12 @@ website:
         href: https://www.instagram.com/laura_brianna/
       - text: "{{< fa brands threads >}}"
         href: https://www.threads.net/@laura_brianna
-  google-analytics: G-DS5CN9HCL1
+  google-analytics: G-MFLL7P614Y
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme: 
+      - sandstone
+      - custom.scss
     grid:
       sidebar-width: 450px
       margin-width: 350px

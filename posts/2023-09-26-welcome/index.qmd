@@ -7,7 +7,7 @@ image: "PST-Conf2023-MediaKit-Talks.jpg"
 categories: [news, about]
 ---
 
-### Please Glitter Responsibly
+## Please Glitter Responsibly
 
 ::: grid
 ::: g-col-8
@@ -31,7 +31,7 @@ Why? You ask, did this distract me for nearly an entire calendar year? (sadly no
 
 So by the time the call came out to pitch talks for the 2023 conference, I had been stewing on this unfortunately named session title for at least 6 months. If only to save my sanity, I had to pitch something.\
 
-### 20 Minutes is Not Long Enough
+## 20 Minutes is Not Long Enough
 
 Now Posit itself is equal parts data science, data engineering, and development. But being a very open community, there are also dozens of user groups who attend these conferences - from pharma and life sciences researchers, to business operations, to the insurance industry. It's a uniquely and fantastically wide world of expertise at these things. So I did my best to identify a single train of thought that could be presented in the 20-minute window.
 
@@ -51,7 +51,7 @@ Shockingly, 20 minutes is not enough time to condense 15+ years of obsession wit
 
 Turns out lots of people liked it.\
 
-### The Problem with Nerds
+## The Problem with Nerds
 
 The problem with nerds is that when we hear something interesting that we can use to make our lives easier, we want more information about how we can use it.
 
