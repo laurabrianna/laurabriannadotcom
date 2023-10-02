@@ -7,7 +7,7 @@ subtitle: "by Laura Gast, DrPH MGIS MPH CPH"
 image: profilepic.png
 about:
   id: hero-heading
-  template: solana
+  template: trestles
   links:
     - text: "{{< fa brands threads >}} Threads"
       href: https://www.threads.net/@laura_brianna
@@ -19,9 +19,13 @@ about:
       href: https://github.com/laurabrianna
 ---
 
-::: {#hero-heading}
+## Welcome!
+Welcome to my blog, a space dedicated to exploring the nuanced intersection of cognitive science, design, data storytelling, and information communication.
 
-:::
+Inspired by wonderful discussions at a data science conference, this blog aims to delve deeper into the science behind effective information design and why its worth your time. Here, you'll find a blend of scientific insights and practical recommendations to help you craft deliverables that not only look good but are also rooted in how the human brain processes information.
+
+Whether you're a professional in pharma, business operations, or any other field, this blog aims to equip you with ideas and actionable tips to make your data-driven messages resonate. I welcome your feedback (LinkedIn and Threads are best!), and look forward to learning from each other.
+
 
 ## A Bit About the Author
 
@@ -34,7 +38,6 @@ Back in her didactic education days, she somehow managed to convince NASA to fun
 These days, you will find Dr. Gast living a calmer life, working for a non-profit dedicated to serving US military members and their families, wrestling with development and impact data.
 
 In her ever-shrinking free time, you'll find Laura playing pub trivia, throwing some darts, attending live performances (comedy, rock, symphony, etc), or training up to run several marathons (where the hard work feels good after a several-years-long recovery from a back injury).
-
 
 ## Education
 

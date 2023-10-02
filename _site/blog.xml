@@ -10,50 +10,11 @@
 <atom:link href="https://lauragast.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Thu, 28 Sep 2023 04:00:00 GMT</lastBuildDate>
-<item>
-  <title>Hah! Made You Look</title>
-  <dc:creator>Laura Gast</dc:creator>
-  <link>https://lauragast.com/posts/2023-09-28-preattentive-attributes/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>You’ve worked on an important project and crunched the numbers—your findings are substantial, insightful, and ripe for action. You’re now preparing to present this data to decision-makers who are, well, incredibly busy and a bit impatient. You’ve got a limited time to make an impact. How can you get their eyes—and minds—to focus on the critical points?</p>
-<p>Enter the concept of “pre-attentive attributes,” a concept from the field of cognitive psychology. Understanding these subconscious cues can help us design visual elements that make the decision-making process far more intuitive and efficient.</p>
-<p>### What Are Pre-Attentive Attributes?</p>
-<p>Pre-attentive attributes are visual cues that our subconscious brain processes in less than 200 milliseconds. These are aspects like shape, size, color, and orientation that our brains pick up and process before we even consciously focus on the data. Think of them as your brain’s “quick filters” for assessing and interpreting a complex visual field.</p>
-<p>#### Practical Example: Air Traffic Control</p>
-<p>In air traffic control systems, immediate recognition of different types of information is crucial. Color coding (an example of a pre-attentive attribute) is used to differentiate between aircraft at different altitudes. A controller doesn’t have to “read” the altitude; the color provides immediate recognition. This efficient way of processing information helps in reducing the cognitive load and quickening decision-making. ([Endsley, M. R. (1995). Toward a theory of situation awareness in dynamic systems. Human Factors, 37(1), 32-64.](https://journals.sagepub.com/doi/10.1518/001872095779049543))</p>
-<p>### How to Leverage Pre-Attentive Attributes</p>
-<p>#### 1. Color Contrast and Hue</p>
-<p>For example, using bright colors for critical data points against a subdued background can attract immediate attention. However, be cautious about the color schemes; cultural and contextual differences might influence how colors are perceived.</p>
-<p>#### 2. Size and Spatial Positioning</p>
-<p>Bigger objects or those positioned in the middle of a layout tend to attract more attention. Data points that are more critical could be emphasized by playing with their size or positioning.</p>
-<p>#### 3. Shape and Orientation</p>
-<p>Various shapes or orientations can serve as effective markers to differentiate data points or categories within the same visual presentation.</p>
-<p>### Pre-attentive Attributes and Cognitive Load</p>
-<p>The principle behind leveraging pre-attentive attributes is rooted in the cognitive load theory. The idea is that our working memory has limited capacity. By using visual cues that are processed subconsciously, we free up cognitive “bandwidth,” allowing decision-makers to concentrate on interpreting the data rather than trying to understand how to read it.</p>
-<p>#### Abstraction and Caveats</p>
-<p>It’s important to note that while pre-attentive attributes make processing easier, they are not a substitute for well-structured data. They serve as a layer atop the content. Also, not all data is suited for all types of pre-attentive attributes. One has to choose wisely, keeping the context and the audience in mind.</p>
-<p>### Wrapping Up</p>
-<p>Effective data presentation is not just about the data itself but also how it’s visually conveyed. With an understanding of pre-attentive attributes, you can design your charts, graphs, and reports in a way that makes the decision-making process smoother and faster. In the cacophonous world of data, sometimes it’s the silent cues that speak the loudest.</p>
-<p>For those who want to dive deeper, academic journals on cognitive psychology and human-computer interaction offer a plethora of research on this topic. And as always, practice makes perfect—so keep experimenting with these elements in your next data presentation project.</p>
-
-
-
- ]]></description>
-  <category>analysis</category>
-  <category>pre-attentive attributes</category>
-  <category>visual processing</category>
-  <guid>https://lauragast.com/posts/2023-09-28-preattentive-attributes/index.html</guid>
-  <pubDate>Thu, 28 Sep 2023 04:00:00 GMT</pubDate>
-  <media:content url="https://lauragast.com/posts/2023-09-28-preattentive-attributes/notice.jpeg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Mon, 02 Oct 2023 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Beyond Aesthetics</title>
   <dc:creator>Laura Gast</dc:creator>
-  <link>https://lauragast.com/posts/2023-09-27-pretty-is-more-than-pretty/index.html</link>
+  <link>https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/index.html</link>
   <description><![CDATA[ 
 
 
@@ -79,7 +40,7 @@
 <p>In data visualization and information design, this principle is critical: overload your audience with too much information, complex visual structures, or intricate details, and you risk diluting the message you aim to convey. For instance, a visualization filled with unnecessary decorations, often called “chartjunk,” can increase extraneous cognitive load, and may lead to a less effective presentation of data <sup>4</sup>. This is the classic ‘Edward Tufte’ view of data visualization that you tend to hear in many data visualization courses <sup>5</sup>. You may also have heard about this as an ‘information to ink’ ratio, or something similar.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z"><img src="https://lauragast.com/posts/2023-09-27-pretty-is-more-than-pretty/tufte_example.jpeg" class="img-fluid figure-img"></a></p>
+<p><a href="https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z"><img src="https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/tufte_example.jpeg" class="img-fluid figure-img"></a></p>
 <figcaption class="figure-caption">An example of Chartjunk, from https://www.edwardtufte.com</figcaption>
 </figure>
 </div>
@@ -243,7 +204,7 @@
 <div class="g-col-4">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.scientificamerican.com/article/climate-change-drives-escalating-drought/"><img src="https://lauragast.com/posts/2023-09-27-pretty-is-more-than-pretty/cedric_sciam.jpeg" class="img-fluid figure-img" width="600"></a></p>
+<p><a href="https://www.scientificamerican.com/article/climate-change-drives-escalating-drought/"><img src="https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/cedric_sciam.jpeg" class="img-fluid figure-img" width="600"></a></p>
 <figcaption class="figure-caption">Balancing science and art to cleanly convey a complex message. From Scientific American, 2021. https://www.scientificamerican.com/article/climate-change-drives-escalating-drought/</figcaption>
 </figure>
 </div>
@@ -319,14 +280,14 @@
   <category>design</category>
   <category>information communication</category>
   <category>Primers &amp; 101s</category>
-  <guid>https://lauragast.com/posts/2023-09-27-pretty-is-more-than-pretty/index.html</guid>
-  <pubDate>Wed, 27 Sep 2023 04:00:00 GMT</pubDate>
-  <media:content url="https://lauragast.com/posts/2023-09-27-pretty-is-more-than-pretty/colorful_dashsquares.jpeg" medium="image" type="image/jpeg"/>
+  <guid>https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/index.html</guid>
+  <pubDate>Mon, 02 Oct 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/colorful_dashsquares.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Why a blog?</title>
   <dc:creator>Laura Gast</dc:creator>
-  <link>https://lauragast.com/posts/2023-09-26-welcome/index.html</link>
+  <link>https://lauragast.com/posts/2023-10-01-welcome/index.html</link>
   <description><![CDATA[ 
 
 
@@ -342,7 +303,7 @@
 <div class="g-col-4">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://lauragast.com/posts/2023-09-26-welcome/glitter.gif" class="img-fluid figure-img"></p>
+<p><img src="https://lauragast.com/posts/2023-10-01-welcome/glitter.gif" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -363,7 +324,7 @@
 <div class="g-col-4">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://lauragast.com/posts/2023-09-26-welcome/PST-Conf2023-MediaKit-Talks.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://lauragast.com/posts/2023-10-01-welcome/PST-Conf2023-MediaKit-Talks.jpg" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -386,7 +347,7 @@
 <div class="g-col-5">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://lauragast.com/posts/2023-09-26-welcome/herefortheparty.gif" class="img-fluid figure-img"></p>
+<p><img src="https://lauragast.com/posts/2023-10-01-welcome/herefortheparty.gif" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -407,9 +368,9 @@ Bonus notes
  ]]></description>
   <category>news</category>
   <category>about</category>
-  <guid>https://lauragast.com/posts/2023-09-26-welcome/index.html</guid>
-  <pubDate>Sat, 23 Sep 2023 04:00:00 GMT</pubDate>
-  <media:content url="https://lauragast.com/posts/2023-09-26-welcome/PST-Conf2023-MediaKit-Talks.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://lauragast.com/posts/2023-10-01-welcome/index.html</guid>
+  <pubDate>Sun, 01 Oct 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://lauragast.com/posts/2023-10-01-welcome/PST-Conf2023-MediaKit-Talks.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
