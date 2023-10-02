@@ -2,7 +2,7 @@
 title: "Why a blog?"
 subtitle: "I have a point, your honor, I promise."
 author: "Laura Gast"
-date: "2023-09-23"
+date: "2023-10-01"
 image: "PST-Conf2023-MediaKit-Talks.jpg"
 categories: [news, about]
 ---

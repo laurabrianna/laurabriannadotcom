@@ -2,7 +2,7 @@
 title: "Beyond Aesthetics"
 subtitle: "A brief primer on the cognitive and psychological foundations of effective data visualization & information communication."
 author: "Laura Gast"
-date: "2023-09-27"
+date: "2023-10-02"
 categories: [analysis, design, information communication, Primers & 101s]
 image: "colorful_dashsquares.jpeg"
 ---
@@ -288,8 +288,6 @@ Which leads us to our next point.
 [![Balancing science and art to cleanly convey a complex message. From Scientific American, 2021. https://www.scientificamerican.com/article/climate-change-drives-escalating-drought/](cedric_sciam.jpeg){fig-align="center" width="600"}](https://www.scientificamerican.com/article/climate-change-drives-escalating-drought/)
 :::
 :::
-
-
 
 ## The Importance of Context (& Emotion)
 
