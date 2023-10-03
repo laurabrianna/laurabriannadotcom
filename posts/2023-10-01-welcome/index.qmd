@@ -9,6 +9,11 @@ twitter-card:
 categories: [news, about]
 ---
 
+```{=html}
+<meta property="og:title" content="Why a blog?" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="PST-Conf2023-MediaKit-Talks.jpg" />
+```
 ## Please Glitter Responsibly
 
 ::: grid
