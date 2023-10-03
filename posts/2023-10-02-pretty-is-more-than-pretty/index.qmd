@@ -5,14 +5,9 @@ author: "Laura Gast"
 date: "2023-10-02"
 categories: [analysis, design, information communication, Primers & 101s]
 image: "colorful_dashsquares.jpeg"
+twitter-card: 
+  image: "cognition.jpg"
 ---
-
-```{=html}
-<meta property="og:title" content="Beyond Aesthetics" />
-<meta property="og:description" content="A brief primer on the cognitive and psychological foundations of effective data visualization & information communication." />
-<meta property="og:type" content="article" />
-<meta property="og:image" content="cognition.jpg" />
-```
 
 *Note: this post is meant to be a brief primer of the kinds of topics I will be discussing in this blog. It is designed to be an echo of my 2023 Posit Conference talk -- Why Design Is Worth The Time. A link to this talk will be available once the conference host uploads it to YouTube.*
 

@@ -4,7 +4,6 @@ project:
 website:
   title: "LauraGast.com"
   site-url: https://lauragast.com
-  image: thumbnail2.jpg
   favicon: lbg_option1.png
   navbar:
     logo: lbg_option1_wbg.png
