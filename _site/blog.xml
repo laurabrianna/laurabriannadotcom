@@ -334,7 +334,7 @@
 <p>Now Posit itself is equal parts data science, data engineering, and development. But being a very open community, there are also dozens of user groups who attend these conferences - from pharma and life sciences researchers, to business operations, to the insurance industry. It’s a uniquely and fantastically wide world of expertise at these things. So I did my best to identify a single train of thought that could be presented in the 20-minute window.</p>
 <p>The Posit team liked it.</p>
 <div class="grid">
-<div class="g-col-4">
+<div class="g-col-4 preview-image">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://lauragast.com/posts/2023-10-01-welcome/PST-Conf2023-MediaKit-Talks.jpg" class="img-fluid figure-img"></p>

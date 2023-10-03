@@ -40,7 +40,7 @@ Now Posit itself is equal parts data science, data engineering, and development.
 The Posit team liked it.
 
 ::: grid
-::: g-col-4
+::: {.g-col-4 .preview-image}
 ![](PST-Conf2023-MediaKit-Talks.jpg){fig-align="center"}
 :::
 
