@@ -16,6 +16,12 @@ about:
       href: https://github.com/laurabrianna
 ---
 
+```{=html}
+<meta property="og:title" content="LauraGast.com" />
+<meta property="og:description" content="anecdotes and evidence for communication design in data science" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="profilepic.png" />
+```
 ::: {#hero-heading}
 ![](lbg_option1.png){fig-align="left" width="2cm"}
 

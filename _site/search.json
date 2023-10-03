@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/2023-10-01-welcome/index.html",
-    "href": "posts/2023-10-01-welcome/index.html",
-    "title": "Why a blog?",
-    "section": "",
-    "text": "In 2022 I attended the RStudio (now Posit) Conference in Washington, DC, and listened to a session containing 4 extremely interesting talks about design.\nUnfortunately, they titled this group “Pour Some Glitter On It: Polishing the design of your shiny apps”.\nWhy? You ask, did this distract me for nearly an entire calendar year? (sadly not an exaggeration)\n\n\n\n\n\n\n\n\n\n\nDon’t pour glitter! Glitter should be targeted for maximum effect.\nWhy glitter? It just gets everywhere. Demitri Martin said it best when he said that “glitter is the herpes of craft supplies”. I guess in some way maybe its a good analogy, because you want your message to stay with your audience for a long long time, but still.\nI firmly believe that good design is absolutely critical to producing deliverables that people want to use, and actually do use. I know that this holds true for applications, powerpoint decks, and even basic Excel spreadsheets. I’ve spent the majority of my career so far orbiting around this concept.\n\nSo by the time the call came out to pitch talks for the 2023 conference, I had been stewing on this unfortunately named session title for at least 6 months. If only to save my sanity, I had to pitch something."
-  },
-  {
     "objectID": "posts/2023-10-01-welcome/index.html#please-glitter-responsibly",
     "href": "posts/2023-10-01-welcome/index.html#please-glitter-responsibly",
     "title": "Why a blog?",
@@ -94,8 +87,8 @@
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "anecdotes and evidence for communication design in data science",
-    "section": "",
-    "text": "Welcome to my blog, a space dedicated to exploring the nuanced intersection of cognitive science, design, data storytelling, and information communication.\nInspired by wonderful discussions at a data science conference, this blog aims to delve deeper into the science behind effective information design and why its worth your time. Here, you’ll find a blend of scientific insights and practical recommendations to help you craft deliverables that not only look good but are also rooted in how the human brain processes information.\nWhether you’re a professional in pharma, business operations, or any other field, this blog aims to equip you with ideas and actionable tips to make your data-driven messages resonate. I welcome your feedback (LinkedIn and Threads are best!), and look forward to learning from each other.\n-lg"
+    "section": "Welcome!",
+    "text": "Welcome!\nWelcome to my blog, a space dedicated to exploring the nuanced intersection of cognitive science, design, data storytelling, and information communication.\nInspired by wonderful discussions at a data science conference, this blog aims to delve deeper into the science behind effective information design and why its worth your time. Here, you’ll find a blend of scientific insights and practical recommendations to help you craft deliverables that not only look good but are also rooted in how the human brain processes information.\nWhether you’re a professional in pharma, business operations, or any other field, this blog aims to equip you with ideas and actionable tips to make your data-driven messages resonate. I welcome your feedback (LinkedIn and Threads are best!), and look forward to learning from each other.\n-lg"
   },
   {
     "objectID": "index.html#about-the-author",
