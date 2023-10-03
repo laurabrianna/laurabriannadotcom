@@ -34,10 +34,10 @@
 <section id="cognitive-load-and-data-visualization" class="level2">
 <h2 class="anchored" data-anchor-id="cognitive-load-and-data-visualization">Cognitive Load and Data Visualization</h2>
 <div class="grid">
-<div class="g-col-8">
+<div class="g-col-9">
 <p>The concept of cognitive load theory, first popularized by John Sweller in the late 1980s, serves as a critical framework for understanding how human cognition works during learning processes <sup>2</sup>. In its most simplified form, cognitive load theory posits that human working memory is limited, and that effective learning and decision-making are constrained by the amount of information we can process simultaneously. This is why its so hard to cram for an exam - you can only absorb so much at one time.</p>
 </div>
-<div class="g-col-4">
+<div class="g-col-3">
 <p><img src="https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/cognition.jpg" class="img-fluid"></p>
 </div>
 </div>
@@ -250,16 +250,16 @@
 <h2 class="anchored" data-anchor-id="those-who-tell-the-stories-rule-the-world">Those Who Tell the Stories Rule the World</h2>
 <section id="narrative-and-memory" class="level3">
 <h3 class="anchored" data-anchor-id="narrative-and-memory">Narrative and Memory</h3>
-<p>Humans are storytellers by default and have been for at least 30,000 years <sup>9</sup>. It’s how we communicate best. We are simply wired to remember stories better than lists of facts, and this insight can be instrumental in the realm of data communication. Jerome Bruner, a cognitive psychologist, posited that narratives up to 22 times more memorable than facts alone (Bruner, 1991). This underscores the importance of incorporating story elements not just into reports and presentations, but to weave it into your data visualizations as well.</p>
+<p>Humans are storytellers by default and have been for at least 30,000 years <sup>9</sup>. It’s how we communicate best. We are simply wired to remember stories better than lists of facts, and this insight can be instrumental in the realm of data communication<sup>10</sup>. Jerome Bruner, a cognitive psychologist, posited that narratives up to 22 times more memorable than facts alone (Bruner, 1991). This underscores the importance of incorporating story elements not just into reports and presentations, but to weave it into your data visualizations as well.</p>
 <p>The reason storytelling is so effective lies in its structure. Most narratives have a beginning, middle, and end, allowing the audience to follow along a ‘path’ which organically leads to the key message or conclusion.</p>
 <p>Presentations tend to start with a ‘where we were’, to a ‘what we did’ to a ‘what’s next’ section. Scientific articles tend start with an introduction, move to materials and methods, into a discussion and conclusion, and then suggest further research. Your tables and data visualizations tend to have an informative title on the top left, and progress to the smaller details in captions on the bottom right (in reading order across a page).</p>
 <p>This temporal progression helps the audience to grasp the urgency and also the possible ramifications, allowing the data to be contextualized and thus, better remembered.</p>
 </section>
 <section id="choose-your-own-adventure-the-role-of-interactivity" class="level3">
 <h3 class="anchored" data-anchor-id="choose-your-own-adventure-the-role-of-interactivity">Choose Your Own Adventure: The Role of Interactivity</h3>
-<p>Interactivity is another dimension that can elevate your data communication strategies. Interactivity enables the viewer to explore the data by themselves, enhancing their understanding and retention of the information presented. A study by Yi, et al.&nbsp;demonstrated that interactivity significantly improved viewers’ ability to acquire insights from visualizations <sup>10</sup>.</p>
+<p>Interactivity is another dimension that can elevate your data communication strategies. Interactivity enables the viewer to explore the data by themselves, enhancing their understanding and retention of the information presented. A study by Yi, et al.&nbsp;demonstrated that interactivity significantly improved viewers’ ability to acquire insights from visualizations <sup>11</sup>.</p>
 <p>In today’s digital age, the opportunity for making data visualizations interactive is more accessible than ever, through tools and platforms that allow zooming, filtering, or even real-time updates. For example, instead of just showing a static map of volunteer and donation rates for your non-rofit, an interactive map could allow users to zoom into their local area or filter by various demographic factors. This not only keeps the viewer’s attention but also makes the information more relevant to them.</p>
-<p>Moreover, interactivity can serve to guide the viewer through complex datasets, in a manner somewhat akin to an interactive narrative. By allowing viewers to ‘unearth’ facts and trends themselves, you engage them in a form of ‘active learning,’ which is shown to be more effective for retention and understanding <sup>11</sup>.</p>
+<p>Moreover, interactivity can serve to guide the viewer through complex datasets, in a manner somewhat akin to an interactive narrative. By allowing viewers to ‘unearth’ facts and trends themselves, you engage them in a form of ‘active learning,’ which is shown to be more effective for retention and understanding <sup>12</sup>.</p>
 <p>Both narrative storytelling and interactive elements can captivate the viewer’s attention, which is an increasingly scarce commodity in our information-saturated world. Used judiciously, these techniques can turn a dull report into a compelling story, and a static chart into an exploration, ensuring that your important data isn’t just seen, but also understood and remembered.</p>
 </section>
 </section>
@@ -284,8 +284,9 @@
 <li id="fn7"><p>Elliot, A. J., &amp; Maier, M. A. (2014). Color psychology: effects of perceiving color on psychological functioning in humans. Annual review of psychology, 65, 95-120.↩︎</p></li>
 <li id="fn8"><p>Cairo, A. (2015). Graphics lies, misleading visuals. In New Challenges for Data Design (pp.&nbsp;103-116). Springer, London.↩︎</p></li>
 <li id="fn9"><p>Smith, D., Schlaepfer, P., Major, K.&nbsp;<em>et al.</em>&nbsp;Cooperation and the evolution of hunter-gatherer storytelling.&nbsp;<em>Nat Commun</em>&nbsp;<strong>8</strong>, 1853 (2017). https://doi.org/10.1038/s41467-017-02036-8↩︎</p></li>
-<li id="fn10"><p>Yi, J. S., Kang, Y. A., Stasko, J. T., &amp; Jacko, J. A. (2008). Toward a deeper understanding of the role of interaction in information visualization. IEEE transactions on visualization and computer graphics, 13(6), 1224-1231↩︎</p></li>
-<li id="fn11"><p>Chi, M. T., &amp; Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. Educational Psychologist, 49(4), 219-243.↩︎</p></li>
+<li id="fn10"><p>Cooke, Ed. “How Narratives can aid memory”. <em>The Guardian.</em> https://www.theguardian.com/lifeandstyle/2012/jan/15/story-lines-facts↩︎</p></li>
+<li id="fn11"><p>Yi, J. S., Kang, Y. A., Stasko, J. T., &amp; Jacko, J. A. (2008). Toward a deeper understanding of the role of interaction in information visualization. IEEE transactions on visualization and computer graphics, 13(6), 1224-1231↩︎</p></li>
+<li id="fn12"><p>Chi, M. T., &amp; Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. Educational Psychologist, 49(4), 219-243.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>analysis</category>

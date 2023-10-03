@@ -22,7 +22,7 @@ website:
         href: https://www.instagram.com/laura_brianna/
       - text: "{{< fa brands threads >}}"
         href: https://www.threads.net/@laura_brianna
-  google-analytics: G-MFLL7P614Y
+  google-analytics: G-37GLESE70H
 format:
   html:
     theme: 
