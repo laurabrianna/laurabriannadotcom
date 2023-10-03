@@ -4,6 +4,7 @@ subtitle: "by Laura Gast, DrPH MGIS MPH CPH"
 image: profilepic.png
 twitter-card: 
   image: "lbg_option1_wbg.png"
+  
 about:
   id: hero-heading
   template: trestles
@@ -21,7 +22,7 @@ about:
 ```{=html}
 <meta property="og:title" content="LauraGast.com" />
 <meta property="og:description" content="anecdotes and evidence for communication design in data science" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
 <meta property="og:image" content="lbg_option1_wbg.png" />
 ```
 ::: {#hero-heading}

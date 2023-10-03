@@ -9,11 +9,6 @@
 <link>https://lauragast.com/blog.html</link>
 <atom:link href="https://lauragast.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<image>
-<url>https://lauragast.com/thumbnail2.jpg</url>
-<title>LauraGast.com</title>
-<link>https://lauragast.com/blog.html</link>
-</image>
 <generator>quarto-1.3.353</generator>
 <lastBuildDate>Mon, 02 Oct 2023 04:00:00 GMT</lastBuildDate>
 <item>
