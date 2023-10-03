@@ -5,8 +5,6 @@ author: "Laura Gast"
 date: "2023-10-02"
 categories: [analysis, design, information communication, Primers & 101s]
 image: "colorful_dashsquares.jpeg"
-twitter-card: 
-  image: "cognition.jpg"
 ---
 
 *Note: this post is meant to be a brief primer of the kinds of topics I will be discussing in this blog. It is designed to be an echo of my 2023 Posit Conference talk -- Why Design Is Worth The Time. A link to this talk will be available once the conference host uploads it to YouTube.*
@@ -28,7 +26,7 @@ A "pretty" data visualization or "clean" looking text block or table may be more
 The concept of cognitive load theory, first popularized by John Sweller in the late 1980s, serves as a critical framework for understanding how human cognition works during learning processes [^2]. In its most simplified form, cognitive load theory posits that human working memory is limited, and that effective learning and decision-making are constrained by the amount of information we can process simultaneously. This is why its so hard to cram for an exam - you can only absorb so much at one time.
 :::
 
-::: g-col-3
+::: {.g-col-3 .preview-image}
 ![](cognition.jpg)
 :::
 :::

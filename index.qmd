@@ -2,8 +2,6 @@
 title: "anecdotes and evidence for communication design in data science"
 subtitle: "by Laura Gast, DrPH MGIS MPH CPH"
 image: profilepic.png
-twitter-card: 
-  image: "lbg_option1_wbg.png"
   
 about:
   id: hero-heading
@@ -26,7 +24,7 @@ about:
 <meta property="og:image" content="lbg_option1_wbg.png" />
 ```
 ::: {#hero-heading}
-![](lbg_option1.png){fig-align="left" width="2cm"}
+![](lbg_option1.png){.preview-image fig-align="left" width="2cm"}
 
 ## Welcome!
 
