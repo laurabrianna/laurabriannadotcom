@@ -7,6 +7,8 @@ freeze: true
 # Enable banner style title blocks
 title-block-banner: false
 
+author: "Laura Gast"
+
 # TOC settings
 toc: true
 toc-depth: 2
