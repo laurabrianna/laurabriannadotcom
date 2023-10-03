@@ -1,7 +1,6 @@
 ---
 title: "anecdotes and evidence for communication design in data science"
 subtitle: "by Laura Gast, DrPH MGIS MPH CPH"
-include-in-header: thumbnail2.jpg
 image: profilepic.png
 about:
   id: hero-heading
