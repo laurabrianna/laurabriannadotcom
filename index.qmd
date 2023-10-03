@@ -1,6 +1,7 @@
 ---
 title: "anecdotes and evidence for communication design in data science"
 subtitle: "by Laura Gast, DrPH MGIS MPH CPH"
+include-in-header: thumbnail2.jpg
 image: profilepic.png
 about:
   id: hero-heading
@@ -26,7 +27,7 @@ Inspired by wonderful discussions at a data science conference, this blog aims t
 
 Whether you're a professional in pharma, business operations, or any other field, this blog aims to equip you with ideas and actionable tips to make your data-driven messages resonate. I welcome your feedback (LinkedIn and Threads are best!), and look forward to learning from each other.
 
-## A Bit About the Author
+## About the Author
 
 Technically an Epidemiologist, Dr. Gast has spent her career at the intersection of communicating technical work to non-technical (and often extremely busy) decision makers.
 
