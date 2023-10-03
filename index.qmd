@@ -15,7 +15,8 @@ about:
       text: Github
       href: https://github.com/laurabrianna
 ---
-:::{#hero-heading}
+
+::: {#hero-heading}
 ![](lbg_option1.png){fig-align="left" width="2cm"}
 
 ## Welcome!
@@ -27,7 +28,6 @@ Inspired by wonderful discussions at a data science conference, this blog aims t
 Whether you're a professional in pharma, business operations, or any other field, this blog aims to equip you with ideas and actionable tips to make your data-driven messages resonate. I welcome your feedback (LinkedIn and Threads are best!), and look forward to learning from each other.
 
 -lg
-
 :::
 
 ## About the Author
@@ -45,7 +45,7 @@ In her ever-shrinking free time, you'll find Laura playing pub trivia, throwing 
 ## Education
 
 **University of Alabama at Birmingham** \| Birmingham, AL, USA\
-DrPH - Epidemiology & International Health
+Doctorate of Public Health (DrPH) - Epidemiology & International Health
 
 **Brown University** \| Providence, RI, USA\
 Master of Public Health (MPH) - Public Health & Public Policy
@@ -54,4 +54,4 @@ Master of Public Health (MPH) - Public Health & Public Policy
 Master of Geographic Information Systems (MGIS)
 
 **Kansas State University** \| Manhattan, KS, USA\
-BSc - Biology & Microbiology
+Bachelor of Science (BSc) - Biology & Microbiology
