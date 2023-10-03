@@ -3,6 +3,7 @@ project:
 
 website:
   title: "LauraGast.com"
+  description: "anecdotes and evidence for communication design in data science"
   site-url: https://lauragast.com
   favicon: lbg_option1.png
   navbar:

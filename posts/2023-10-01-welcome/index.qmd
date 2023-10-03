@@ -5,6 +5,7 @@ author: "Laura Gast"
 date: "2023-10-01"
 image: "PST-Conf2023-MediaKit-Talks.jpg"
 categories: [news, about]
+include-in-header: og_info.html
 ---
 
 ## Please Glitter Responsibly

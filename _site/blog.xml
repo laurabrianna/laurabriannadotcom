@@ -8,7 +8,7 @@
 <title>LauraGast.com</title>
 <link>https://lauragast.com/blog.html</link>
 <atom:link href="https://lauragast.com/blog.xml" rel="self" type="application/rss+xml"/>
-<description></description>
+<description>anecdotes and evidence for communication design in data science</description>
 <generator>quarto-1.3.353</generator>
 <lastBuildDate>Mon, 02 Oct 2023 04:00:00 GMT</lastBuildDate>
 <item>
@@ -32,7 +32,7 @@
 <div class="g-col-9">
 <p>The concept of cognitive load theory, first popularized by John Sweller in the late 1980s, serves as a critical framework for understanding how human cognition works during learning processes <sup>2</sup>. In its most simplified form, cognitive load theory posits that human working memory is limited, and that effective learning and decision-making are constrained by the amount of information we can process simultaneously. This is why its so hard to cram for an exam - you can only absorb so much at one time.</p>
 </div>
-<div class="g-col-3">
+<div class="g-col-3 preview-image">
 <p><img src="https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/cognition.jpg" class="img-fluid"></p>
 </div>
 </div>
@@ -300,10 +300,6 @@
 
 
 
-<meta property="og:title" content="LauraGast.com - Why a blog?">
-<meta property="og:description" content="I have a point, your honor, I promise.">
-<meta property="og:type" content="article">
-<meta property="og:image" content="PST-Conf2023-MediaKit-Talks.jpg">
 <section id="please-glitter-responsibly" class="level2">
 <h2 class="anchored" data-anchor-id="please-glitter-responsibly">Please Glitter Responsibly</h2>
 <div class="grid">
