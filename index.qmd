@@ -15,7 +15,7 @@ about:
       text: Github
       href: https://github.com/laurabrianna
 ---
-
+:::{#hero-heading}
 ![](lbg_option1.png){fig-align="left" width="2cm"}
 
 ## Welcome!
@@ -25,6 +25,10 @@ Welcome to my blog, a space dedicated to exploring the nuanced intersection of c
 Inspired by wonderful discussions at a data science conference, this blog aims to delve deeper into the science behind effective information design and why its worth your time. Here, you'll find a blend of scientific insights and practical recommendations to help you craft deliverables that not only look good but are also rooted in how the human brain processes information.
 
 Whether you're a professional in pharma, business operations, or any other field, this blog aims to equip you with ideas and actionable tips to make your data-driven messages resonate. I welcome your feedback (LinkedIn and Threads are best!), and look forward to learning from each other.
+
+-lg
+
+:::
 
 ## About the Author
 

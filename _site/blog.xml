@@ -9,6 +9,11 @@
 <link>https://lauragast.com/blog.html</link>
 <atom:link href="https://lauragast.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
+<image>
+<url>https://lauragast.com/thumbnail2.jpg</url>
+<title>LauraGast.com</title>
+<link>https://lauragast.com/blog.html</link>
+</image>
 <generator>quarto-1.3.353</generator>
 <lastBuildDate>Mon, 02 Oct 2023 04:00:00 GMT</lastBuildDate>
 <item>
@@ -28,7 +33,14 @@
 </section>
 <section id="cognitive-load-and-data-visualization" class="level2">
 <h2 class="anchored" data-anchor-id="cognitive-load-and-data-visualization">Cognitive Load and Data Visualization</h2>
+<div class="grid">
+<div class="g-col-8">
 <p>The concept of cognitive load theory, first popularized by John Sweller in the late 1980s, serves as a critical framework for understanding how human cognition works during learning processes <sup>2</sup>. In its most simplified form, cognitive load theory posits that human working memory is limited, and that effective learning and decision-making are constrained by the amount of information we can process simultaneously. This is why its so hard to cram for an exam - you can only absorb so much at one time.</p>
+</div>
+<div class="g-col-4">
+<p><img src="https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/cognition.jpg" class="img-fluid"></p>
+</div>
+</div>
 <p>Cognitive load theory is broken apart into three components <sup>3</sup>:</p>
 <ol type="1">
 <li><p>Intrinsic Cognitive Load: this is the inherent complexity associated with the material being learned or presented, and is related to the subject matter itself. The intrinsic load of a specific topic is generally unchangeable - it is easier to learn addition than it is to learn how to calculate differential equations.</p></li>
