@@ -3,6 +3,10 @@ project:
 
 website:
   title: "LauraGast.com"
+  open-graph:
+    title: "LauraGast.com"
+    description: "anecdotes and evidence for communication design in data science"
+    image: "lbg_option1_wbg.png"
   site-url: https://lauragast.com
   image: thumbnail2.jpg
   favicon: lbg_option1.png
