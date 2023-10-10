@@ -4,7 +4,7 @@ subtitle: "Why storytelling is needed for sharing facts and vice versa."
 author: "Laura Gast"
 date: "2023-10-10"
 categories: [storytelling, cognitive load theory, narrative]
-image: "brain_lights_up.jpeg"
+image: "brain_lights_up_sm.png"
 ---
 
 ## Story without Facts & Facts without Story
