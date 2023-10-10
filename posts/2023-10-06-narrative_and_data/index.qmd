@@ -1,0 +1,151 @@
+---
+title: "Narrative & Data: A Necessary Pairing"
+subtitle: "Why storytelling is needed for sharing facts and vice versa."
+author: "Laura Gast"
+date: "2023-10-10"
+categories: [storytelling, cognitive load theory, narrative]
+image: "brain_lights_up.jpeg"
+---
+
+## Story without Facts & Facts without Story
+
+In some circles, the "storytelling" part of "data storytelling" automatically means you're trying to pull the wool over the eyes of your audience.
+
+I see this pushback from people all over the place. And for a reasonably good reason. You hear [story](https://www.bbc.co.uk/bbcthree/article/b2538e04-87f5-4af5-bd6f-f6cf88b488c4) after [story](https://www.espn.com/nfl/story/_/id/38190720/blind-side-subject-michael-oher-alleges-adoption-was-lie-family-took-all-film-proceeds) in the popular press about how a storyteller has [stretched](https://www.wired.com/story/sam-bankman-fried-ftx-trial-going-infinite-number-go-up/) the truth to the point of [breaking](https://www.theguardian.com/books/2006/sep/15/usa.world), all in service of a good "story". Fool me once, shame on you. Fool me dozens of times, you can't out-story-tell the storyteller. My own father seems to rankle a bit when I talk about building a narrative of a presentation I've been asked to deliver.
+
+As the tried (and tired?) and true trope goes, "anecdotes are not evidence".
+
+<blockquote class="text-post-media" data-text-post-permalink="https://www.threads.net/@mattyglesias/post/CyBALoQrG3z" data-text-post-version="0" id="ig-tp-CyBALoQrG3z" style=" background:#FFF; border-width: 1px; border-style: solid; border-color: #00000026; border-radius: 16px; max-width:540px; margin: 1px; min-width:270px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+
+<a href="https://www.threads.net/@mattyglesias/post/CyBALoQrG3z" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%; font-family: -apple-system, BlinkMacSystemFont, sans-serif;" target="_blank">
+
+::: {style=" padding: 40px; display: flex; flex-direction: column; align-items: center;"} ::: {style=" display:block; height:32px; width:32px; padding-bottom:20px;"} <svg aria-label="Threads" height="32px" role="img" viewBox="0 0 192 192" width="32px" xmlns="http://www.w3.org/2000/svg"> <path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z" /></svg> :::
+
+::: {style=" font-size: 15px; line-height: 21px; color: #999999; font-weight: 400; padding-bottom: 4px; "} Post by @mattyglesias :::
+
+::: {style=" font-size: 15px; line-height: 21px; color: #000000; font-weight: 600; "} View on Threads ::: :::
+
+</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://www.threads.net/embed.js"></script>
+```
+But the extreme other side of this issue is the "The Data Speaks for Itself" camp. How many times have we seen brilliant and nuanced scientific research be ignored because one (or both) extreme side hired the better storytellers? The tobacco lobby, Swift-Kelce conspiracy theories, literally every single 'health food' trend...
+
+The data can speak for itself when the data collects itself and cleans itself. Until then we as data scientists, analysts, engineers and architects have to speak on behalf of the data.
+
+And to speak on behalf of the data, we have to give it a fighting chance of being listened to, understood, and remembered - we have to tell its story.
+
+## Cognitive Load & the Demand of Data
+
+Understanding data is an effortful process. The brain needs to interpret, compare, and derive meaning from what might be a deluge of numbers. Every data point, every number, every percentage demands cognitive resources for interpretation. This is the foundational premise of Cognitive Load Theory, established by Jonathan Sweller first in 1988[^1]. According to this theory, our working memory -- the mental space where we process information -- has a limited capacity. Overburdening it can lead to ineffective processing or even complete misunderstandings.
+
+[^1]: Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. \_Cognitive Science, 12\_(2), 257-285.
+
+Cognitive Load Theory is broken into three primary types:
+
+1.  **Intrinsic Load**: This is inherent to the material being learned. For example, basic arithmetic has a lower intrinsic load than advanced calculus. It's the "base difficulty" of a subject, so to speak. You really can't change this.
+
+2.  **Extraneous Load**: This load doesn't come from the material itself, but from how it's presented. Think of a poorly designed infographic that confuses more than it clarifies, or a lecture that's disorganized. This load is essentially "noise" -- unnecessary cognitive effort that doesn't help in understanding the core material.
+
+3.  **Germane Load**: This is the cognitive effort directed towards constructing and automating schemas. Schemas are mental structures we use to organize and store information. When learning conditions are optimal, learners can effectively create these schemas, aiding long-term retention and understanding.
+
+When we're faced with raw data, especially extensive analyses without any guiding structure, it's analogous to being handed numerous jigsaw puzzle pieces, each from different puzzles. The cognitive effort required to even begin making sense of these pieces, let alone fitting them together into a coherent picture, is immense.
+
+Without some form of categorization, summarization, or guiding narrative, we're left to grapple with these disparate pieces, each vying for our limited cognitive attention. The challenge here isn't simply about managing the volume of data, but about the very nature of how humans process information.
+
+## The Necessity of Narrative
+
+Cognitively, humans are hardwired to understand and remember stories. This inclination traces back to our evolutionary history. Early humans, sitting around campfires, shared tales of hunting escapades, encounters with other tribes, or the mysteries of the stars. These stories weren't just for entertainment; they were critical for survival. They served to transmit knowledge, culture, and values from one generation to the next.
+
+#### {{< fa garage >}} Narrative as Structure
+
+From a cognitive science perspective, stories help in organizing and making sense of information in a structured manner. When information is structured, it becomes more digestible, memorable, and impactful. Consider the difference between reading a dry list of facts versus engaging with a compelling narrative that weaves those facts into a coherent and emotionally resonant tale.
+
+#### {{< fa link >}} Narrative as Context
+
+Complex ideas often require a rich tapestry of background knowledge to fully understand. Narratives are instrumental in providing this context. By embedding details within a story, the audience can understand the *why*, *how*, and *what* of a situation, rather than just the isolated facts.
+
+#### {{< fa bridge-suspension >}} Narrative as Access
+
+A well-crafted narrative has multiple layers and can be approached from different angles, making it accessible to a diverse audience. Whether a listener is captivated by the human element, the overarching plot, or the intricate details, there's something in the story for everyone. This inclusivity is essential when communicating complex ideas to audiences with varied backgrounds and interests.
+
+Furthermore, rather than being passive recipients of information, narratives encourage the audience to engage actively. As listeners or readers, we predict outcomes, empathize, and draw conclusions. This active participation aids in comprehension and retention.
+
+#### {{< fa brain >}} Narrative and Memory
+
+At the heart of a good story is a central message or theme. While the surrounding details provide depth and richness, they all serve to support and amplify this core idea. This structure is incredibly useful when dealing with multifaceted subjects. By framing the complex idea within a narrative structure, the communicator can emphasize the most crucial aspects without getting lost in the minutiae.
+
+Additionally, emotions are powerful drivers of memory. Studies have shown that emotionally charged events are remembered better than neutral events. Narratives, by their very nature, have an emotional component -- they involve characters with desires, challenges, triumphs, and failures. When an audience is emotionally invested, they're more likely to remember - and act on - the core message.[^2]^,^[^3]
+
+[^2]: Damasio, A. R. (1994). Descartes' error: emotion, reason, and the human brain. New York: Putnam.
+
+[^3]: Greenhalgh, T., & Hurwitz, B. (1999). Why study narrative? BMJ, 318(7175), 48-50.
+
+#### {{< fa person-running-fast >}} You (& Your C-Suite) as Characters in the Story
+
+Yes, your presentation or document has characters. You as an analyst are a character in the story of the analysis. So are your users or customers, and so are the decision-makers you're talking to. You could even consider your data a character. What else is the Introduction-Materials-Methods-Results-Discussion-Conclusion format of a scientific article if not the same as a Joseph Campbell arc of narrative?[^4] As humans, we (usually) want all of these groups to come out victorious in the end.
+
+[^4]: Olson, R. (2015). Houston, we have a narrative: why science needs story. Chicago, The University of Chicago Press.
+
+Narrative isn't merely a luxury or an add-on; it's foundational to how we, as humans, understand and make sense of the world around us.
+
+## A Picture is Worth A Thousand Words
+
+There's a reason the adage "a picture is worth a thousand words" has stood the test of time. Humans are visual creatures.
+
+Our capacity to quickly process and derive meaning from visual stimuli is unparalleled. Richard K. Lowe's research underscores this point, suggesting that visual representations can significantly enhance understanding, especially when dealing with complex information[^5].
+
+[^5]: Lowe, R. K. (1999). Extracting information from an animation during complex visual learning. \*Educational Psychology\*, 19(3), 235-244.
+
+This isn't just about slapping on a chart or a graph to a dataset. Effective visualization is an art and science in itself, one that understands and leverages human visual cognition. It's about choosing the right kind of visualization based on the nature of the data, the relationships within it, and the key message one wants to convey. It's about color choices, scale, hierarchy, and design -- each playing a role in ensuring the data is not just seen, but truly understood. In a world increasingly dominated by data, the ability to convert that data into insightful visuals is not just beneficial; it's imperative.
+
+But why is it that visuals are so effective for our brains?
+
+#### Processing Visual Stimuli
+
+The human brain processes images in a fraction of a second, much faster than it takes to read a sentence. This rapid processing is courtesy of the visual cortex, a large section of our brain dedicated to interpreting visual information[^6]. When we view a chart or a graph, multiple areas of the brain are activated, including those responsible for processing color, shape, and spatial relationships. Visual representations consolidate complex information into digestible chunks and patterns, and encodes information in multiple ways to even out work the brain does to ingest new information. This multi-faceted processing enables us to quickly grasp complex patterns and relationships that might take paragraphs to describe in words.
+
+[^6]: Kanwisher, N. (2010). Functional specificity in the human brain: A window into the functional architecture of the mind. \*Proceedings of the National Academy of Sciences\*, 107(25), 11163-11170.
+
+This means decision-makers can focus on analysis and interpretation rather than getting bogged down simply comprehending what is being shown in the visual.
+
+#### Avoiding Misrepresentation
+
+However, it's important to acknowledge the limitations and potential pitfalls of visual data representation. Not all visualizations are created equal. A poorly designed graph might not only fail to communicate its message but can also mislead. Distorted axes, inappropriate color schemes, or simply trying to cram too much information into one visual can lead to confusion or misinterpretation.
+
+Misrepresented data can lead to incorrect policy decisions, mis-allocated resources, or misguided public perceptions. This underscores the importance of grounding data visualization practices in a solid understanding of both the data and the human cognitive processes at play.
+
+Thus, the skills of a seasoned data scientist and an understanding of visual cognition are paramount to ensure that visuals serve their intended purpose: to illuminate, not obfuscate.
+
+While the visual representation of data is a powerful tool in the arsenal of decision-makers and communicators, it must be wielded with care, understanding, and expertise. As we move forward into an era saturated with data, the intersection of cognitive science and data visualization will be paramount in ensuring that we extract genuine insights and make informed decisions.
+
+## The Ethical Imperative of Curated Presentation
+
+Beyond the cognitive and communicative challenges posed by raw data, there's an overarching ethical dimension to consider. To claim that "data speaks for itself" is, in many ways, an abdication of responsibility.
+
+This isn't about distorting data or infusing it with bias. It's about recognizing that data can be misinterpreted, misunderstood, or even manipulated. By curating its presentation, by providing the necessary context, narrative, and visualization, we're ensuring its integrity. We're ensuring that the decisions made on the back of this data are informed, accurate, and ethical.
+
+But how does one curate data effectively without falling into the trap of over-simplification or bias? This is where interdisciplinary knowledge proves invaluable. A grounding in cognitive science aids in the clear communication of complex points. Foundations in neural sciences guide with the understanding of how different visual stimuli are processed.[^7] A deep understanding of the domain ensures that the essence of the data is maintained.
+
+[^7]: Paivio, A. (1986). Mental Representations: A Dual Coding Approach. \*Oxford University Press\*.
+
+Such a fusion of knowledge bridges the gap between raw data and truthful, actionable insights.
+
+Still, there are challenges. As Davenport and Patil highlighted in their seminal article on the rise of the data scientist, the nexus of expertise required for effective data communication is rare.[^8] Not everyone has the luxury of extensive training in both domain expertise and cognitive processing. Thus, collaboration becomes key. Teams with varied expertise can come together to ensure data is not just accurate but also ethically and effectively presented.[^9]
+
+[^8]: Davenport, T. H., & Patil, D. J. (2012). Data Scientist: The sexiest job of the 21st century. \*Harvard Business Review\*, 90(5), 70-76.
+
+[^9]: Davenport, T. H., & Patil, D. J. (2022). Is Data Scientist Still the Sexiest Job of the 21st Century? \*Harvard Business Review\*, https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century
+
+## Concluding Thoughts
+
+The belief that data can speak for itself is a seductive one. It offers a veneer of objectivity, suggesting that data is immune to the vagaries of human interpretation. Pure data, devoid of context and narrative, can be silent or even distort the truth.
+
+But also, one shouldn't have story just for the sake of story. After all, anecdotes are not evidence.
+
+Think of data as the raw material, and storytelling as the craft -- turning that material into something tangible, relatable, and actionable. As experts in data interpretation and communication, we are not just number-crunchers but storytellers. We breathe life into numbers, ensuring that the message they carry isn't just heard but deeply understood and felt.
+
+In our mission to communicate data-derived insights, it's crucial to remember the cognitive science behind information processing and the power of a well-told tale. By weaving our data within the fabric of a compelling story, using potent visualization techniques, and maintaining unwavering ethical standards, we ensure that our data doesn't merely convey facts. Instead, it builds insights that can captivate, inspire, and most importantly, catalyze real-world action. When data and story work together, we can ensure that our data doesn't just speak -- it sinks in, it resonates, and most importantly, drives action.
