@@ -1,5 +1,5 @@
 ---
-title: "Narrative & Data: A Necessary Pairing"
+title: "Narrative & Data: An Unavoidable Alliance"
 subtitle: "Why storytelling is needed for sharing facts and vice versa."
 description: "Why storytelling is needed for sharing facts and vice versa."
 twitter-card: 
