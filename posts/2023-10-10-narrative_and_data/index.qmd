@@ -2,12 +2,16 @@
 title: "Narrative & Data: An Unavoidable Alliance"
 subtitle: "Why data needs storytelling and vice versa."
 description: "Why data needs storytelling and vice versa."
-twitter-card: 
-  image: "https://lauragast.com/posts/2023-10-10-narrative_and_data/preview.png"
 author: "Laura Gast"
 date: "2023-10-10"
 categories: [storytelling, cognitive load theory, narrative]
 image: "preview.png"
+format: 
+  html: 
+    include-in-header: 
+      file: og_info.html
+twitter-card: 
+  image: "https://lauragast.com/posts/2023-10-10-narrative_and_data/preview.png"
 ---
 
 ## Story without Facts & Facts without Story
