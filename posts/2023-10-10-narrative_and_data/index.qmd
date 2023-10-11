@@ -95,7 +95,7 @@ Yes, your presentation or document has characters. You as an analyst are a chara
 
 Narrative isn't merely a luxury or an add-on; it's foundational to how we, as humans, understand and make sense of the world around us.
 
-![](brain_lights_up_sm.png){.preview-image fig-align="center" width="200"}
+![](brain_lights_up_sm.png){.preview-image fig-align="center" width="305"}
 
 ## A Picture is Worth A Thousand Words
 
