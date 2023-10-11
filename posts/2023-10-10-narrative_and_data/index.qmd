@@ -1,7 +1,7 @@
 ---
 title: "Narrative & Data: An Unavoidable Alliance"
-subtitle: "Why storytelling is needed for sharing facts and vice versa."
-description: "Why storytelling is needed for sharing facts and vice versa."
+subtitle: "Why data needs storytelling and vice versa."
+description: "Why data needs storytelling and vice versa."
 twitter-card: 
   image: "https://lauragast.com/posts/2023-10-10-narrative_and_data/brain_lights_up_sm.png"
 author: "Laura Gast"
@@ -139,7 +139,7 @@ But how does one curate data effectively without falling into the trap of over-s
 
 Such a fusion of knowledge bridges the gap between raw data and truthful, actionable insights.
 
-Still, there are challenges. As Davenport and Patil highlighted in their seminal article on the rise of the data scientist, the nexus of expertise required for effective data communication is rare.[^8] Not everyone has the luxury of extensive training in both domain expertise and cognitive processing. Thus, collaboration becomes key. Teams with varied expertise can come together to ensure data is not just accurate but also ethically and effectively presented.[^9]
+Still, there are challenges. As Davenport and Patil highlighted in their seminal 2012 Harvard Business Review article on the rise of the data scientist, the nexus of expertise required for effective data communication is rare.[^8] Not everyone has the luxury of extensive training in both domain expertise and cognitive processing. Thus, collaboration becomes key. Teams with varied expertise can come together to ensure data is not just accurate but also ethically and effectively presented.[^9]
 
 [^8]: Davenport, T. H., & Patil, D. J. (2012). Data Scientist: The sexiest job of the 21st century. \*Harvard Business Review\*, 90(5), 70-76.
 
