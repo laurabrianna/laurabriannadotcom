@@ -3,7 +3,7 @@ title: "Narrative & Data: An Unavoidable Alliance"
 subtitle: "Why storytelling is needed for sharing facts and vice versa."
 description: "Why storytelling is needed for sharing facts and vice versa."
 twitter-card: 
-  image: "https://lauragast.com/posts/2023-10-06-narrative_and_data/brain_lights_up_sm.png"
+  image: "https://lauragast.com/posts/2023-10-10-narrative_and_data/brain_lights_up_sm.png"
 author: "Laura Gast"
 date: "2023-10-10"
 categories: [storytelling, cognitive load theory, narrative]
