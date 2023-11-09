@@ -27,6 +27,8 @@ Inspired by wonderful discussions at a data science conference, this blog aims t
 
 Whether you're a professional in pharma, business operations, or any other field, this blog aims to equip you with ideas and actionable tips to make your data-driven messages resonate. I welcome your feedback (LinkedIn and Threads are best!), and look forward to learning from each other.
 
+My aim is to post new content here on the second Tuesday of each month.
+
 -lbg
 :::
 
