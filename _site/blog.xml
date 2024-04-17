@@ -9,8 +9,84 @@
 <link>https://lauragast.com/blog.html</link>
 <atom:link href="https://lauragast.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>anecdotes and evidence for communication design in data science</description>
-<generator>quarto-1.3.353</generator>
-<lastBuildDate>Tue, 10 Oct 2023 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Tue, 12 Mar 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Making Things Difficult:</title>
+  <dc:creator>Laura Gast</dc:creator>
+  <link>https://lauragast.com/posts/2024-03-12-disfluency/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="harder-to-read-harder-to-do" class="level2">
+<h2 class="anchored" data-anchor-id="harder-to-read-harder-to-do">Harder to Read, Harder to Do</h2>
+<p>In a statement that will surprise very few people, “If It’s Hard to Read, It’s Hard to Do”<sup>1</sup>, which makes it a perfect title for a 2008 research study by H Song and N Schwarz at the University of Michigan<sup>2</sup>. Note that while this particular study is quite small (n = 20), it has been replicated by other studies with larger groups, of different ages, and with slightly different tasks, but the general premise and findings holds true.</p>
+<p>The studies generally go like this.</p>
+<p>A group of people are given a fairly simple health routine instruction sheet. They’re asked to read the instructions or exercises, and then evaluate how easy or difficult the routine would be, how long they thing it might take them, and how likely they are to incorporate it into their lives. (Sometimes they’re asked to actually do the exercises.)</p>
+<p>The only differences are that some people are given the routine in a clean sans-serif font, like Arial, and others are given the routine in a slightly harder-to read font, like a Brush stroke.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lauragast.com/posts/2024-03-12-disfluency/font_example_study.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>As expected, participants had generally equal recall of the instructions in the two conditions and found the cleaner (Arial) font easier to read. Somewhat surprisingly (or not?) those that got the easier to read font also estimated that the activities in the routine would take less time and that those exercises would feel easier and faster. Furthermore, they also responded that they had a higher willingness to include the routine as part of their regular habits if they had the easier to read font.</p>
+<p>Obvious statement of the day: people are more likely to do something they think is easy.</p>
+<p>Slightly less obvious statement of the day: people think things are easier if you put it in an easy to read font.</p>
+<p>If doing some action is “no big deal”, its easier to get someone to do it. This is fantastic to remember if you’re trying to help people start a new habit, or make some change, or pick up take out on the way home from work<sup>3</sup>.</p>
+<p>But let’s throw a wrench into this. What if you don’t want something to be “no big deal”? What if you’ve got some results that are nuanced, counter-intuitive, or really need to sink in strongly with your audience?</p>
+</section>
+<section id="harder-to-read-easier-to-remember" class="level2">
+<h2 class="anchored" data-anchor-id="harder-to-read-easier-to-remember">Harder to Read, Easier (?) to Remember</h2>
+<p>Here’s where things get interesting. While ease of reading is undeniably important, some research suggests a paradoxical benefit to introducing a slight degree of difficulty into the reading process. This is referred to as the “disfluency effect”.</p>
+<p>I’m just going to let Kühl and Eitel summarize the concept of disfluency:</p>
+<blockquote class="blockquote">
+<p>the concept of <em>disfluency</em> refers to the metacognitive experience of ease or difficulty associated with completing a mental task. If task completion is perceived as easy or fluent, one often uses heuristics and intuitions to process information. If task completion is perceived as difficult or disfluent, by contrast, one is more likely to engage in effortful and analytic processing</p>
+</blockquote>
+<p>The ELI5<sup>4</sup> version of this is if you think something is “too easy”, you won’t care about it as much, think its “less important”, and not spend any effort moving it from short term memory to long term memory. But if you think something is just a <em>little bit</em> difficult, you’ll work a <em>little bit</em> harder to get it into your brain and work to fully understand it.</p>
+<p>The disfluency effect posits that when something requires a little bit more effort to decode, it can lead to better memory and recall. Basically, if your audience is already at least <em>partly</em> bought-in to what you’re presenting, it might be worthwhile to (counterintuitively) actually make it <em>harder</em> for them to read.</p>
+<p>There is also disfluency as measured by pauses like ums and uhs in in a speech stream. Obviously, these are related to spoken word, not written word, and have a different implication that this short (ish) blog post is focusing on, but there is increasing research in the utility of these spoken disfluencies in memory and recall<sup>5</sup>. And the emerging evidence is intriguing. (I’ll try to cover this in a future post.)</p>
+<p>So if something seems “too easy” when you read it, you may read it too fast, skip over salient information, and not remember it later. But if something is “too hard” to read, you may give up entirely or not understand it fully. But the arena of disfluency in typeface or font choice being an <em>improvement</em> over something easier to read is still a bit muddy.</p>
+</section>
+<section id="but-everyone-isnt-just-like-you" class="level2">
+<h2 class="anchored" data-anchor-id="but-everyone-isnt-just-like-you">But everyone isn’t just like you</h2>
+<p>Obviously theres some sweet spot between “too easy” and “too hard”.</p>
+<p>Unfortunately (or fortunately?), that line is different for everyone.</p>
+<p>Fortunately (or unfortunately?) Adobe is investing a lot of research into fonts and typefaces and comprehension. It’s a less-common instance of Corporate Research being made widely available and making the world just a little bit better! Because they’re sharing their work, I’m going to just give a basic summary and link you below. I highly recommend going to read their blog posts (which all link to the published research summarized within).</p>
+<p>“The need to personalize fonts for each individual reader” is a great blog post summarizing some Adobe research that shows that there is no “best” font for everyone. They picked several pretty readable fonts (no fancy brush scripts here) and had people select their preference. And while people read their fastest font 35% faster than their slowest font, that wasn’t always their “favorite” font, and fast reading vs slow reading didn’t seem to matter (90% comprehension on multiple-choice questions across all fonts).<sup>6</sup> <sup>7</sup></p>
+<p>If you’re interested in this kind of research, I also <em>highly</em> recommend The Readability Consortium, which is a partnership between Adobe, Google, UCF, and the NGO Readability Matters, which does a lot of research and outreach into, well, what it says on the tin: Readability.<sup>8</sup></p>
+</section>
+<section id="well-so-what" class="level2">
+<h2 class="anchored" data-anchor-id="well-so-what">Well so what?</h2>
+<p>At the end of the day, the tl;dr is to pick something you like and that you think qualifies as “easy to read”.</p>
+<p>Then run it by your coworkers and friends. Try it in a related but slightly different font. Don’t try to get “fancy” when it is critical that your audience understand and fully absorb your message.</p>
+<p>Just remember that even your choice of font face matters.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>In the great tradition of scientific articles (a tradition I enjoy, thank you very much), the full study involves a semi colon and should be written as “If It’s Hard to Read, It’s Hard to Do: Processing Fluency Affects Effort Prediction and Motivation”.↩︎</p></li>
+<li id="fn2"><p>Song, H., &amp; Schwarz, N. (2008). If It’s Hard to Read, It’s Hard to Do: Processing Fluency Affects Effort Prediction and Motivation. Psychological Science, 19(10), 986-988. <a href="https://doi.org/10.1111/j.1467-9280.2008.02189.x" class="uri">https://doi.org/10.1111/j.1467-9280.2008.02189.x</a>↩︎</p></li>
+<li id="fn3"><p>Okuhara, Tsuyoshi et al.&nbsp;“Influence of high versus low readability level of written health information on self-efficacy: A randomized controlled study of the processing fluency effect.”&nbsp;<em>Health psychology open</em>vol.&nbsp;7,1 2055102920905627. 12 Feb.&nbsp;2020, doi:10.1177/2055102920905627↩︎</p></li>
+<li id="fn4"><p>ELI5 = internet speak for “Explain it like I’m 5 years old”↩︎</p></li>
+<li id="fn5"><p>Diachek, Evgeniia, and Sarah Brown-Schmidt. “The effect of disfluency on memory for what was said.”&nbsp;<em>Journal of experimental psychology. Learning, memory, and cognition</em>&nbsp;vol.&nbsp;49,8 (2023): 1306-1324. doi:10.1037/xlm0001156↩︎</p></li>
+<li id="fn6"><p><a href="https://blog.adobe.com/en/publish/2022/05/10/the-need-to-personalize-fonts-for-each-individual-reader" class="uri">https://blog.adobe.com/en/publish/2022/05/10/the-need-to-personalize-fonts-for-each-individual-reader</a>↩︎</p></li>
+<li id="fn7"><p>This study also shows I probably shouldn’t use Open Sans, one of my fav typefaces. Sigh…↩︎</p></li>
+<li id="fn8"><p><a href="https://readabilitymatters.org" class="uri">https://readabilitymatters.org</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>focus</category>
+  <category>narrative</category>
+  <category>typeface</category>
+  <category>disfluency</category>
+  <guid>https://lauragast.com/posts/2024-03-12-disfluency/index.html</guid>
+  <pubDate>Tue, 12 Mar 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://lauragast.com/posts/2024-03-12-disfluency/preview.png" medium="image" type="image/png" height="95" width="144"/>
+</item>
 <item>
   <title>Narrative &amp; Data: An Unavoidable Alliance</title>
   <dc:creator>Laura Gast</dc:creator>

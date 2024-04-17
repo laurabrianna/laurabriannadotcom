@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lauragast.com/posts/2023-10-01-welcome/index.html</loc>
-    <lastmod>2023-11-13T21:01:22.351Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/index.html</loc>
-    <lastmod>2023-11-13T21:01:23.324Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lauragast.com/posts/2023-10-10-narrative_and_data/index.html</loc>
-    <lastmod>2023-11-13T21:01:24.174Z</lastmod>
+    <loc>https://lauragast.com/blog.html</loc>
+    <lastmod>2024-04-17T18:27:12.603Z</lastmod>
   </url>
   <url>
     <loc>https://lauragast.com/talks.html</loc>
-    <lastmod>2023-11-13T21:01:24.561Z</lastmod>
+    <lastmod>2024-04-17T18:27:11.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lauragast.com/posts/2023-10-02-pretty-is-more-than-pretty/index.html</loc>
+    <lastmod>2024-04-17T18:27:10.153Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lauragast.com/posts/2023-10-01-welcome/index.html</loc>
+    <lastmod>2024-04-17T18:27:08.551Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lauragast.com/posts/2024-03-12-disfluency/index.html</loc>
+    <lastmod>2024-04-17T18:27:09.158Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lauragast.com/posts/2023-10-10-narrative_and_data/index.html</loc>
+    <lastmod>2024-04-17T18:27:10.993Z</lastmod>
   </url>
   <url>
     <loc>https://lauragast.com/index.html</loc>
-    <lastmod>2023-11-13T21:01:25.048Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lauragast.com/blog.html</loc>
-    <lastmod>2023-11-13T21:01:25.720Z</lastmod>
+    <lastmod>2024-04-17T18:27:11.845Z</lastmod>
   </url>
 </urlset>
