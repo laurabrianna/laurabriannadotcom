@@ -1,7 +1,7 @@
 ---
 title: "Making Things Difficult: "
 subtitle: "Font choice, disfluency effect, and focusing attention."
-description: "Font choice, disfluency effect, and focusing attention."
+description: "Why choosing a typeface always seems harder than it should be."
 author: "Laura Gast"
 date: "2024-03-12"
 categories: [focus, narrative, typeface, disfluency]

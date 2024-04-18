@@ -2,13 +2,13 @@
 title: "talks"
 ---
 
--   UPCOMING: "Uniquely Human: Data Storytelling in the Age of AI"
+-   UPCOMING: **"Uniquely Human: Data Storytelling in the Age of AI"**
 
     August 14, 2024 \| Seattle, WA, USA \| Posit Conference 2024
 
--   Data Science Hangout [\[YouTube Link\]](https://youtu.be/AwpjwbANo7k?si=a-EEQXZQ4B_bFn-G "Laura Gast | Data Science Hangout (Posit PBC)")
+-   **Data Science Hangout** [\[YouTube Link\]](https://youtu.be/AwpjwbANo7k?si=a-EEQXZQ4B_bFn-G "Laura Gast | Data Science Hangout (Posit PBC)")
 
     November 30, 2023 \| Virtual (USA) \| Posit Data Science Hangouts
 
--   "Why Design is Worth The Time" [\[YouTube Link\]](https://youtu.be/Kp-LQe3WgDU?si=e5CJZOs0R5-21q8A "Why Design is Worth The Time (Posit PBC)")\
+-   **"Why Design is Worth The Time: Leveraging Cognitive Science to Amplify Impact"** [\[YouTube Link\]](https://youtu.be/Kp-LQe3WgDU?si=e5CJZOs0R5-21q8A "Why Design is Worth The Time (Posit PBC)")\
     September 19, 2023 \| Chicago, IL, USA \| Posit Conference 2023
